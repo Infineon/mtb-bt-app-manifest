@@ -5,6 +5,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -44,53 +48,14 @@
     <req_capabilities>ble CYW920719B2Q40EVB_01</req_capabilities>
   </app>
   <app>
-    <name>BLE-20721B2EVK01</name>
-    <id>ble_CYW920721B2EVK_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-01-btsdk-ble</uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>ble CYW920721B2EVK_01</req_capabilities>
-  </app>
-  <app>
     <name>BLE-20721B2EVK03</name>
     <id>ble_CYW920721B2EVK_03</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-ble</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -135,6 +100,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -173,6 +142,10 @@
     <id>ble_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-ble</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -218,6 +191,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -260,6 +237,10 @@
     <id>ble_CYW920820EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-ble</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -305,6 +286,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -347,6 +332,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -384,6 +373,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -420,6 +413,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -452,6 +449,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -480,10 +481,80 @@
     <req_capabilities>ble CYW920735Q60EVB_01</req_capabilities>
   </app>
   <app>
+    <name>BLE-CYW9M2BASE43012BT</name>
+    <id>ble_BLE-CYW9M2BASE_43012BT</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-ble</uri>
+    <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <h4>Applications included:</h4>
+  <ul>
+    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
+    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
+  </ul>
+  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>ble CYW9M2BASE_43012BT</req_capabilities>
+  </app>
+  <app>
+    <name>BLE-CYBT423054EVAL</name>
+    <id>ble_CYBT_423054_EVAL</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-423054-EVAL-btsdk-ble</uri>
+    <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <h4>Applications included:</h4>
+  <ul>
+   <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
+   <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
+   <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
+   <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
+   <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
+   <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
+   <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
+   <li><u>find_me</u>: BLE FindMe Service</li>
+  </ul>
+  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>ble CYBT_423054_EVAL</req_capabilities>
+  </app>
+  <app>
     <name>Mesh-Demo-213043MESH</name>
     <id>mesh_demo_CYBT_213043_MESH</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-MESH-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -516,7 +587,7 @@
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
     <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
     <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperator sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -530,6 +601,10 @@
     <id>mesh_snip_CYBT_213043_MESH</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-MESH-btsdk-mesh-snip</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -564,6 +639,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-mesh-demo</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -594,7 +673,7 @@
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
     <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
     <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperator sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -608,6 +687,10 @@
     <id>mesh_snip_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-mesh-snip</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -641,6 +724,10 @@
     <id>mesh_demo_CYBT_213043_EVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -686,6 +773,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -719,6 +810,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-mesh-demo</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -749,8 +844,8 @@
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
     <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
     <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperator sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>switch_smart</u>:Implementation of a motion sensor combined with the on off button functionality.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -763,6 +858,10 @@
     <id>mesh_snip_CYW920820EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-mesh-snip</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -797,6 +896,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-mesh-demo</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -823,8 +926,8 @@
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
     <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
     <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperator sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>switch_smart</u>:Implementation of a motion sensor combined with the on off button functionality.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -838,6 +941,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -862,81 +969,15 @@
     <req_capabilities>mesh CYW920719B2Q40EVB_01</req_capabilities>
   </app>
   <app>
-    <name>Mesh-Demo-20721B2EVK01</name>
-    <id>mesh_demo_CYW920721B2EVK_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-01-btsdk-mesh-demo</uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
-    <li><u>light_smart</u>: Implementation of a smart light based on Light Lightness and LC models.</li>
-    <li><u>low_power_led</u>: Implementation of a low power LED system, includes Low Power Server and Friend Node.</li>
-    <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-    <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperator sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>switch_smart</u>:Implementation of a motion sensor combined with the on off button functionality.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>mesh CYW920721B2EVK_01</req_capabilities>
-  </app>
-  <app>
-    <name>Mesh-Snip-20721B2EVK01</name>
-    <id>mesh_snip_CYW920721B2EVK_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-01-btsdk-mesh-snip</uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>mesh CYW920721B2EVK_01</req_capabilities>
-  </app>
-  <app>
     <name>Mesh-Demo-20721B2EVK03</name>
     <id>mesh_demo_CYW920721B2EVK_03</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-mesh-demo</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -963,8 +1004,8 @@
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
     <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
     <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperator sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>switch_smart</u>:Implementation of a motion sensor combined with the on off button functionality.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -977,6 +1018,10 @@
     <id>mesh_snip_CYW920721B2EVK_03</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-mesh-snip</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1007,6 +1052,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-mesh-demo</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1033,8 +1082,8 @@
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
     <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
     <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperator sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>switch_smart</u>:Implementation of a motion sensor combined with the on off button functionality.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1047,6 +1096,10 @@
     <id>mesh_snip_CYW920721B2EVK_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-mesh-snip</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1076,6 +1129,10 @@
     <id>mesh_demo_CYW920706WCDEVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1111,6 +1168,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-demo</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1142,6 +1203,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1170,6 +1235,10 @@
     <id>mesh_snip_CYBT-353027</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-mesh-snip</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1200,6 +1269,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1224,6 +1297,10 @@
     <id>mesh_snip_CYW920735Q60EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-snip</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1250,6 +1327,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-audio</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1274,7 +1355,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS) and Apple Notification Center Service (ANCS).</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gatway profile.</li>
+    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gateway profile.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1283,49 +1364,15 @@
     <req_capabilities>audio CYW920719B2Q40EVB_01</req_capabilities>
   </app>
   <app>
-    <name>Audio-20721B2EVK01</name>
-    <id>audio_CYW920721B2EVK_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-01-btsdk-audio</uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS) and Apple Notification Center Service (ANCS).</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gatway profile.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>audio CYW920721B2EVK_01</req_capabilities>
-  </app>
-  <app>
     <name>Audio-20721B2EVK03</name>
     <id>audio_CYW920721B2EVK_03</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-audio</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1350,7 +1397,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS) and Apple Notification Center Service (ANCS).</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gatway profile.</li>
+    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gateway profile.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1363,6 +1410,10 @@
     <id>audio_CYW920721B2EVK_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-audio</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1384,7 +1435,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth A2DP sink profile.</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gatway profile.</li>
+    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gateway profile.</li>
     <li><u>btspeaker</u>: A reference app demonstrating Bluetooth speaker.</li>
     <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth Handsfree profile.</li>
     <li><u>headset</u>: A reference app demonstrating Bluetooth headset.</li>
@@ -1401,6 +1452,10 @@
     <id>audio_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-audio</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1439,6 +1494,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-audio</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1476,6 +1535,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-audio</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1496,7 +1559,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth A2DP sink profile.</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gatway profile.</li>
+    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gateway profile.</li>
     <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth Handsfree profile.</li>
     <li><u>headset</u>: A reference app demonstrating Bluetooth headset.</li>
     <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS) and Apple Notification Center Service (ANCS).</li>
@@ -1508,10 +1571,45 @@
     <req_capabilities>audio CYW920706WCDEVAL</req_capabilities>
   </app>
   <app>
+    <name>Audio-CYW9M2BASE43012BT</name>
+    <id>audio_CYW9M2BASE_43012BT</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-audio</uri>
+    <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <h4>Applications included:</h4>
+  <ul>
+    <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth A2DP sink profile.</li>
+    <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth Handsfree profile.</li>
+    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS) and Apple Notification Center Service (ANCS).</li>
+  </ul>
+  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>audio CYW9M2BASE_43012BT</req_capabilities>
+  </app>
+  <app>
     <name>RFCOMM-213043EVAL</name>
     <id>rfcomm_CYBT_213043_EVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1550,6 +1648,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1575,8 +1677,8 @@
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
-    <li><u>map_client</u>: Sample app demonstrating  Message Access Client Profile.</li>
-    <li><u>opp_server</u>: Sample app demonstrating  Object Push Server.</li>
+    <li><u>map_client</u>: Sample app demonstrating Message Access Client Profile.</li>
+    <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1585,51 +1687,15 @@
     <req_capabilities>br_edr CYW920719B2Q40EVB_01</req_capabilities>
   </app>
   <app>
-    <name>RFCOMM-20721B2EVK01</name>
-    <id>rfcomm_CYW920721B2EVK_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-01-btsdk-rfcomm</uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
-    <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
-    <li><u>map_client</u>: Sample app demonstrating  Message Access Client Profile.</li>
-    <li><u>opp_server</u>: Sample app demonstrating  Object Push Server.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>br_edr CYW920721B2EVK_01</req_capabilities>
-  </app>
-  <app>
     <name>RFCOMM-20721B2EVK03</name>
     <id>rfcomm_CYW920721B2EVK_03</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1655,8 +1721,8 @@
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
-    <li><u>map_client</u>: Sample app demonstrating  Message Access Client Profile.</li>
-    <li><u>opp_server</u>: Sample app demonstrating  Object Push Server.</li>
+    <li><u>map_client</u>: Sample app demonstrating Message Access Client Profile.</li>
+    <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1670,6 +1736,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1691,8 +1761,8 @@
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
-    <li><u>map_client</u>: Sample app demonstrating  Message Access Client Profile.</li>
-    <li><u>opp_server</u>: Sample app demonstrating  Object Push Server.</li>
+    <li><u>map_client</u>: Sample app demonstrating Message Access Client Profile.</li>
+    <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1705,6 +1775,10 @@
     <id>rfcomm_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1743,6 +1817,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1779,6 +1857,10 @@
     <id>rfcomm_CYW989820EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1817,6 +1899,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1838,7 +1924,7 @@
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
-    <li><u>opp_server</u>: Sample app demonstrating  Object Push Server.</li>
+    <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1852,6 +1938,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -1873,7 +1963,7 @@
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
-    <li><u>opp_server</u>: Sample app demonstrating  Object Push Server.</li>
+    <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1886,6 +1976,10 @@
     <id>rfcomm_CYBT-343026</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1904,7 +1998,7 @@
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
-    <li><u>opp_server</u>: Sample app demonstrating  Object Push Server.</li>
+    <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1917,6 +2011,10 @@
     <id>rfcomm_CYW920735Q60EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1942,10 +2040,43 @@
     <req_capabilities>br_edr CYW920735Q60EVB_01</req_capabilities>
   </app>
   <app>
+    <name>RFCOMM-CYW9M2BASE43012BT</name>
+    <id>rfcomm_CYW9M2BASE_43012BT</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-rfcomm</uri>
+    <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <h4>Applications included:</h4>
+  <ul>
+    <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
+  </ul>
+  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>br_edr CYW9M2BASE_43012BT</req_capabilities>
+  </app>
+  <app>
     <name>HID-20819EVB02</name>
     <id>hid_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-hid</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -1986,6 +2117,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-hid</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2025,6 +2160,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819REF-KB-01-btsdk-hid</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2058,6 +2197,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-hid</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2088,6 +2231,10 @@
     <id>ota_CYW920719B2Q40EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -2122,47 +2269,14 @@
     <req_capabilities>ota CYW920719B2Q40EVB_01</req_capabilities>
   </app>
   <app>
-    <name>OTA-20721B2EVK01</name>
-    <id>ota_CYW920721B2EVK_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-01-btsdk-ota</uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Over-the-Air firmware updates.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>ota CYW920721B2EVK_01</req_capabilities>
-  </app>
-  <app>
     <name>OTA-20721B2EVK03</name>
     <id>ota_CYW920721B2EVK_03</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -2201,6 +2315,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2233,6 +2351,10 @@
     <id>ota_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -2271,6 +2393,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2307,6 +2433,10 @@
     <id>ota_CYW989820EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -2345,6 +2475,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2377,6 +2511,10 @@
     <id>ota_CYBT-353027</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -2411,6 +2549,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2439,6 +2581,10 @@
     <id>ota_CYW920735Q60EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -2469,6 +2615,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2493,9 +2643,9 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
-    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and recieve data.</li>
+    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2504,48 +2654,14 @@
     <req_capabilities>hal CYW920719B2Q40EVB_01</req_capabilities>
   </app>
   <app>
-    <name>HAL-20721B2EVK01</name>
-    <id>hal_CYW920721B2EVK_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-01-btsdk-hal</uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates HAL.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>hal CYW920721B2EVK_01</req_capabilities>
-  </app>
-  <app>
     <name>HAL-20819EVB02</name>
     <id>hal_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-hal</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -2572,10 +2688,10 @@
   <ul>
     <li><u>low_power</u>: App demonstrates low power modes.</li>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
-    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and recieve data.</li>
+    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2589,6 +2705,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2614,10 +2734,10 @@
   <ul>
     <li><u>low_power</u>: App demonstrates low power modes.</li>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
-    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and recieve data.</li>
+    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2631,6 +2751,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2655,9 +2779,9 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
-    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and recieve data.</li>
+    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2671,6 +2795,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2695,7 +2823,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2708,6 +2836,10 @@
     <id>hal_CYW920721B2EVK_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-hal</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -2729,7 +2861,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -2744,6 +2876,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2769,7 +2905,7 @@
   <ul>
     <li><u>low_power</u>: App demonstrates low power modes.</li>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
   </ul>
@@ -2785,6 +2921,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2805,7 +2945,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>uart_spi_bridge</u>: App implements the SPI Master and act as UART-SPI Bridge.</li>
@@ -2822,6 +2962,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2838,10 +2982,10 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
-    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and recieve data.</li>
+    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2855,6 +2999,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2871,7 +3019,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripherial UART.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
     <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
   </ul>
@@ -2887,6 +3035,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2907,43 +3059,11 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
     <req_capabilities>ble CYW920719B2Q40EVB_01</req_capabilities>
-  </app>
-  <app>
-    <name>Empty-20721B2EVK01</name>
-    <id>empty_CYW920721B2EVK_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-01-btsdk-empty</uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>ble CYW920721B2EVK_01</req_capabilities>
   </app>
   <app>
     <name>Empty-20721B2EVK03</name>
@@ -2951,6 +3071,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2971,7 +3095,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -2983,6 +3107,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -2999,7 +3127,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -3011,6 +3139,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -3031,7 +3163,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -3043,6 +3175,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -3063,7 +3199,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -3075,6 +3211,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -3095,7 +3235,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -3107,6 +3247,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -3127,7 +3271,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -3139,6 +3283,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -3155,7 +3303,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -3167,6 +3315,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -3183,7 +3335,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -3195,6 +3347,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -3207,7 +3363,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
@@ -3219,6 +3375,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -3231,17 +3391,69 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
 </body>
 </html>
     ]]></description>
     <req_capabilities>ble CYW920735Q60EVB_01</req_capabilities>
   </app>
   <app>
+    <name>Empty-CYW9M2BASE43012BT</name>
+    <id>empty_CYW9M2BASE_43012BT</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-empty</uri>
+    <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>ble CYW9M2BASE_43012BT</req_capabilities>
+  </app>
+  <app>
+    <name>Empty-CYBT423054EVAL</name>
+    <id>empty_CYBT_423054_EVAL</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-423054-EVAL-btsdk-empty</uri>
+    <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>ble CYBT_423054_EVAL</req_capabilities>
+  </app>
+  <app>
     <name>wiced_btsdk</name>
     <id>wiced_btsdk</id>
     <uri>https://github.com/cypresssemiconductorco/wiced_btsdk</uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -3267,7 +3479,7 @@
   <h4>This directory contains SDK for BT SDK apps. It includes:</h4>
   <ul>
     <li><u>baselib</u>: Files for chips such as CYW20819, CYW20719, etc.</li>
-    <li><u>bsp</u>: Files for BSPs (platforms) supported by BTSDK. For example CYW920721B2EVK-01.</li>
+    <li><u>bsp</u>: Files for BSPs (platforms) supported by BTSDK. For example CYW920721B2EVK-02.</li>
     <li><u>btsdk-include</u>: Common header files needed by all apps and libraries.</li>
     <li><u>btsdk-tools</u>: Build tools needed by BTSDK.</li>
     <li><u>libraries</u>: Profile libraries used by BTSDK apps such as audio, BLE, HID, etc.</li>
