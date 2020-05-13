@@ -5,6 +5,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -53,6 +57,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -100,6 +108,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -142,6 +154,10 @@
     <id>ble_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-ble</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -191,6 +207,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -237,6 +257,10 @@
     <id>ble_CYW920820EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-ble</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -286,6 +310,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -332,6 +360,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -373,6 +405,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -413,6 +449,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -448,6 +488,10 @@
     <id>ble_BLE-CYW920735Q60EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-ble</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -486,6 +530,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-ble</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -515,6 +563,10 @@
     <id>ble_CYBT_423054_EVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-423054-EVAL-btsdk-ble</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -547,10 +599,86 @@
     <req_capabilities>ble CYBT_423054_EVAL</req_capabilities>
   </app>
   <app>
+    <name>BLE-CYBT413055EVAL</name>
+    <id>ble_CYBT_413055_EVAL</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-413055-EVAL-btsdk-ble</uri>
+    <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <h4>Applications included:</h4>
+  <ul>
+   <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
+   <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
+   <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
+   <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
+   <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
+   <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
+   <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
+   <li><u>find_me</u>: BLE FindMe Service</li>
+  </ul>
+  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>ble CYBT_413055_EVAL</req_capabilities>
+  </app>
+  <app>
+    <name>BLE-CYBT483056EVAL</name>
+    <id>ble_CYBT_483056_EVAL</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-483056-EVAL-btsdk-ble</uri>
+    <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <h4>Applications included:</h4>
+  <ul>
+   <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
+   <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
+   <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
+   <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
+   <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
+   <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
+   <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
+   <li><u>find_me</u>: BLE FindMe Service</li>
+  </ul>
+  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>ble CYBT_483056_EVAL</req_capabilities>
+  </app>
+  <app>
     <name>Mesh-Demo-213043MESH</name>
     <id>mesh_demo_CYBT_213043_MESH</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-MESH-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -602,6 +730,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-MESH-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -638,6 +770,10 @@
     <id>mesh_demo_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -688,6 +824,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -724,6 +864,10 @@
     <id>mesh_demo_CYBT_213043_EVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -773,6 +917,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -809,6 +957,10 @@
     <id>mesh_demo_CYW920820EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -859,6 +1011,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -895,6 +1051,10 @@
     <id>mesh_demo_CYW920719B2Q40EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -941,6 +1101,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -973,6 +1137,10 @@
     <id>mesh_demo_CYW920721B2EVK_03</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1019,6 +1187,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1051,6 +1223,10 @@
     <id>mesh_demo_CYW920721B2EVK_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1097,6 +1273,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1129,6 +1309,10 @@
     <id>mesh_demo_CYW920706WCDEVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-demo</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1168,6 +1352,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-demo</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1203,6 +1391,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1235,6 +1427,10 @@
     <id>mesh_snip_CYBT-353027</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-mesh-snip</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1269,6 +1465,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1298,6 +1498,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-snip</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1326,6 +1530,10 @@
     <id>audio_CYW920719B2Q40EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-audio</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1369,6 +1577,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-audio</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1410,6 +1622,10 @@
     <id>audio_CYW920721B2EVK_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-audio</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1453,6 +1669,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-audio</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1493,6 +1713,10 @@
     <id>audio_CYW920820EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-audio</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1535,6 +1759,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-audio</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1576,6 +1804,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-audio</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1593,6 +1825,7 @@
   <ul>
     <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth A2DP sink profile.</li>
     <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth Handsfree profile.</li>
+    <li><u>headset</u>: A reference app demonstrating Bluetooth headset.</li>
     <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS) and Apple Notification Center Service (ANCS).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -1606,6 +1839,10 @@
     <id>rfcomm_CYBT_213043_EVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1648,6 +1885,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1675,7 +1916,8 @@
   <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
+    <li><u>spp</u>: Sample app demonstrating Serial Port Profile (SPP).</li>
+    <li><u>spp_multi_port</u>: SPP app that supports 2 connections and interfaces to external host.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
     <li><u>map_client</u>: Sample app demonstrating Message Access Client Profile.</li>
     <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
@@ -1691,6 +1933,10 @@
     <id>rfcomm_CYW920721B2EVK_03</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1736,6 +1982,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1760,6 +2010,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
+    <li><u>spp_multi_port</u>: SPP app that supports 2 connections and interfaces to external host.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
     <li><u>map_client</u>: Sample app demonstrating Message Access Client Profile.</li>
     <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
@@ -1776,6 +2027,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1804,6 +2059,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
+    <li><u>spp_multi_port</u>: SPP app that supports 2 connections and interfaces to external host.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1817,6 +2073,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1845,6 +2105,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
+    <li><u>spp_multi_port</u>: SPP app that supports 2 connections and interfaces to external host.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1857,6 +2118,10 @@
     <id>rfcomm_CYW989820EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1899,6 +2164,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -1923,6 +2192,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
+    <li><u>spp_multi_port</u>: SPP app that supports 2 connections and interfaces to external host.</li>
     <li><u>pbap_client</u>: Sample app demonstrating Phonebook Client Profile.</li>
     <li><u>opp_server</u>: Sample app demonstrating Object Push Server.</li>
   </ul>
@@ -1937,6 +2207,10 @@
     <id>rfcomm_CYBT-353027</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-rfcomm</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -1977,6 +2251,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2012,6 +2290,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2045,6 +2327,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-rfcomm</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2061,6 +2347,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
+    <li><u>map_client</u>: Sample app demonstrating Message Access Client Profile.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2073,6 +2360,10 @@
     <id>hid_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-hid</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -2117,6 +2408,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-hid</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2160,6 +2455,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819REF-KB-01-btsdk-hid</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2197,6 +2496,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-hid</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2231,6 +2534,10 @@
     <id>ota_CYW920719B2Q40EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -2274,6 +2581,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2315,6 +2626,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2351,6 +2666,10 @@
     <id>ota_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -2393,6 +2712,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2433,6 +2756,10 @@
     <id>ota_CYW989820EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -2475,6 +2802,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2511,6 +2842,10 @@
     <id>ota_CYBT-353027</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-ota</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -2549,6 +2884,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2582,6 +2921,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-ota</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2614,6 +2957,10 @@
     <id>hal_CYW920719B2Q40EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-hal</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -2658,6 +3005,10 @@
     <id>hal_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-hal</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -2705,6 +3056,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2751,6 +3106,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2795,6 +3154,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2837,6 +3200,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2875,6 +3242,10 @@
     <id>hal_CYBT_213043_EVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-hal</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -2921,6 +3292,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2962,6 +3337,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -2999,6 +3378,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-hal</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3034,6 +3417,10 @@
     <id>empty_CYW920719B2Q40EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-empty</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -3071,6 +3458,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3107,6 +3498,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3138,6 +3533,10 @@
     <id>empty_CYW920819EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-empty</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -3175,6 +3574,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3210,6 +3613,10 @@
     <id>empty_CYW989820EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-empty</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -3247,6 +3654,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3283,6 +3694,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3314,6 +3729,10 @@
     <id>empty_CYBT-353027</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-empty</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -3347,6 +3766,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3374,6 +3797,10 @@
     <id>empty_CYW920735Q60EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-empty</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -3403,6 +3830,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3427,6 +3858,10 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-423054-EVAL-btsdk-empty</uri>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
       </version>
@@ -3446,10 +3881,62 @@
     <req_capabilities>ble CYBT_423054_EVAL</req_capabilities>
   </app>
   <app>
+    <name>Empty-CYBT413055EVAL</name>
+    <id>empty_CYBT_413055_EVAL</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-413055-EVAL-btsdk-empty</uri>
+    <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>ble CYBT_413055_EVAL</req_capabilities>
+  </app>
+  <app>
+    <name>Empty-CYBT483056EVAL</name>
+    <id>empty_CYBT_483056_EVAL</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-483056-EVAL-btsdk-empty</uri>
+    <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <description><![CDATA[
+<html>
+<body>
+  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+</body>
+</html>
+    ]]></description>
+    <req_capabilities>ble CYBT_483056_EVAL</req_capabilities>
+  </app>
+  <app>
     <name>wiced_btsdk</name>
     <id>wiced_btsdk</id>
     <uri>https://github.com/cypresssemiconductorco/wiced_btsdk</uri>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
