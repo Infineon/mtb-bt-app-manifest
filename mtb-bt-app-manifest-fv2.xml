@@ -11,6 +11,10 @@
     <req_capabilities>btsdk ble btsdk_empty_app</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -27,6 +31,10 @@
     ]]></description>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -45,6 +53,10 @@
     <req_capabilities>btsdk avsink</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -61,6 +73,10 @@
     ]]></description>
     <req_capabilities>btsdk audio_gateway</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -79,6 +95,10 @@
     <req_capabilities>btsdk handsfree</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -95,6 +115,10 @@
     ]]></description>
     <req_capabilities>btsdk headset</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -113,6 +137,10 @@
     <req_capabilities>btsdk hs_speaker</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -129,6 +157,10 @@
     ]]></description>
     <req_capabilities>btsdk audio_record</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -147,56 +179,51 @@
     <req_capabilities>btsdk watch</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
     </versions>
   </app>
   <app keywords="btsdk,alert,ANC,ANS">
-    <name>BLE Alert Notification Client</name>
+    <name>LE Alert Notification Client</name>
     <id>mtb-example-btsdk-ble-alert-client</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-alert-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of BLE Alert Notification Client profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-alert-client">link</a>.</body>
+<body> This application demonstrates the implementation of LE Alert Notification Client profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-alert-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk anc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
     </versions>
   </app>
   <app keywords="btsdk,alert,ANC,ANS">
-    <name>BLE Alert Notification Service</name>
+    <name>LE Alert Notification Service</name>
     <id>mtb-example-btsdk-ble-alert-server</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-alert-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of BLE Alert Notification Service profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-alert-server">link</a>.</body>
+<body> This application demonstrates the implementation of LE Alert Notification Service profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-alert-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk ans</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>2.8.0 release</num>
-        <commit>release-v2.8.0</commit>
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
       </version>
-    </versions>
-  </app>
-  <app keywords="btsdk,battery">
-    <name>BLE Battery Client</name>
-    <id>mtb-example-btsdk-ble-battery-client</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-client</uri>
-    <description><![CDATA[
-<html>
-<body> This application demonstrates the implementation of BLE Battery Client profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-client">link</a>.</body>
-</html>
-    ]]></description>
-    <req_capabilities>btsdk batc</req_capabilities>
-    <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -204,16 +231,41 @@
     </versions>
   </app>
   <app keywords="btsdk,battery">
-    <name>BLE Battery Service</name>
+    <name>LE Battery Client</name>
+    <id>mtb-example-btsdk-ble-battery-client</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-client</uri>
+    <description><![CDATA[
+<html>
+<body> This application demonstrates the implementation of LE Battery Client profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-client">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk batc</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,battery">
+    <name>LE Battery Service</name>
     <id>mtb-example-btsdk-ble-battery-server</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of BLE Battery Service profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-server">link</a>.</body>
+<body> This application demonstrates the implementation of LE Battery Service profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk bats</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -221,7 +273,7 @@
     </versions>
   </app>
   <app keywords="btsdk,beacon,iBeacon,Eddystone">
-    <name>BLE Beacon</name>
+    <name>LE Beacon</name>
     <id>mtb-example-btsdk-ble-beacon</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-beacon</uri>
     <description><![CDATA[
@@ -232,13 +284,17 @@
     <req_capabilities>btsdk beacon</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
     </versions>
   </app>
   <app keywords="btsdk,connection,oriented,channel,LECOC">
-    <name>BLE Connection Oriented Channel</name>
+    <name>LE Connection Oriented Channel</name>
     <id>mtb-example-btsdk-ble-connection-oriented-channel</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-connection-oriented-channel</uri>
     <description><![CDATA[
@@ -249,22 +305,30 @@
     <req_capabilities>btsdk lecoc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
     </versions>
   </app>
   <app keywords="btsdk,environment,sensing,temperature">
-    <name>BLE Environment Sensing Temperature</name>
+    <name>LE Environment Sensing Temperature</name>
     <id>mtb-example-btsdk-ble-env-sensing-temp</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-env-sensing-temp</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a simple BLE Environmental Sensing Profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-env-sensing-temp">link</a>.</body>
+<body> This application demonstrates the implementation of a simple LE Environmental Sensing Profile. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-env-sensing-temp">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk env_sens_temp</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -272,16 +336,20 @@
     </versions>
   </app>
   <app keywords="btsdk,find-me,findme">
-    <name>BLE Find Me</name>
+    <name>LE Find Me</name>
     <id>mtb-example-btsdk-ble-find-me</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-find-me</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a simple BLE Immediate Alert Service (IAS)-based Find Me Profile (FMP). For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-find-me">link</a>.</body>
+<body> This application demonstrates the implementation of a simple LE Immediate Alert Service (IAS)-based Find Me Profile (FMP). For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-find-me">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk findme</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -289,7 +357,7 @@
     </versions>
   </app>
   <app keywords="btsdk,heart,rate">
-    <name>BLE Heart Rate Client</name>
+    <name>LE Heart Rate Client</name>
     <id>mtb-example-btsdk-ble-heart-rate-client</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-heart-rate-client</uri>
     <description><![CDATA[
@@ -300,13 +368,17 @@
     <req_capabilities>btsdk hrc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
     </versions>
   </app>
   <app keywords="btsdk,heart,rate">
-    <name>BLE Heart Rate Service</name>
+    <name>LE Heart Rate Service</name>
     <id>mtb-example-btsdk-ble-heart-rate-server</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-heart-rate-server</uri>
     <description><![CDATA[
@@ -317,22 +389,9 @@
     <req_capabilities>btsdk hrs</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>2.8.0 release</num>
-        <commit>release-v2.8.0</commit>
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
       </version>
-    </versions>
-  </app>
-  <app keywords="btsdk,hello">
-    <name>BLE Hello Client</name>
-    <id>mtb-example-btsdk-ble-hello-client</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-client</uri>
-    <description><![CDATA[
-<html>
-<body> This application demonstrates the implementation of BLE Vendor Specific Client sample application. Use this application along with BLE Hello Sensor application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-client">link</a>.</body>
-</html>
-    ]]></description>
-    <req_capabilities>btsdk helloc</req_capabilities>
-    <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -340,16 +399,41 @@
     </versions>
   </app>
   <app keywords="btsdk,hello">
-    <name>BLE Hello Sensor</name>
+    <name>LE Hello Client</name>
+    <id>mtb-example-btsdk-ble-hello-client</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-client</uri>
+    <description><![CDATA[
+<html>
+<body> This application demonstrates the implementation of LE Vendor Specific Client sample application. Use this application along with LE Hello Sensor application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-client">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk helloc</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,hello">
+    <name>LE Hello Sensor</name>
     <id>mtb-example-btsdk-ble-hello-sensor</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-sensor</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of BLE Vendor Specific Server. Use this application along with BLE Hello Client application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-sensor">link</a>.</body>
+<body> This application demonstrates the implementation of LE Vendor Specific Server. Use this application along with LE Hello Client application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-sensor">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk hellos</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -368,6 +452,10 @@
     <req_capabilities>btsdk adc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -384,6 +472,10 @@
     ]]></description>
     <req_capabilities>btsdk gpio</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -402,6 +494,10 @@
     <req_capabilities>btsdk i2c_master</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -419,6 +515,10 @@
     <req_capabilities>btsdk lowpower</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -435,6 +535,10 @@
     ]]></description>
     <req_capabilities>btsdk puart</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -455,6 +559,10 @@
     <req_capabilities>btsdk pwm</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -471,6 +579,10 @@
     ]]></description>
     <req_capabilities>btsdk uart_raw</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -489,39 +601,30 @@
     <req_capabilities>btsdk uart_spi</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
     </versions>
   </app>
   <app keywords="btsdk,mouse,HID">
-    <name>HID BLE Mouse</name>
+    <name>HID LE Mouse</name>
     <id>mtb-example-btsdk-hid-ble-mouse</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-mouse</uri>
     <description><![CDATA[
 <html>
-<body> This is a BLE Mouse reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-mouse">link</a>.</body>
+<body> This is a LE Mouse reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-mouse">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk ble_mouse</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>2.8.0 release</num>
-        <commit>release-v2.8.0</commit>
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
       </version>
-    </versions>
-  </app>
-  <app keywords="btsdk,remote,HID">
-    <name>HID BLE Remote Control</name>
-    <id>mtb-example-btsdk-hid-ble-rcu</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-rcu</uri>
-    <description><![CDATA[
-<html>
-<body> This is a BLE Remote reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-rcu">link</a>.</body>
-</html>
-    ]]></description>
-    <req_capabilities>btsdk ble_rcu</req_capabilities>
-    <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -529,16 +632,41 @@
     </versions>
   </app>
   <app keywords="btsdk,remote,HID">
-    <name>HID BLE Remote</name>
+    <name>HID LE Remote Control</name>
+    <id>mtb-example-btsdk-hid-ble-rcu</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-rcu</uri>
+    <description><![CDATA[
+<html>
+<body> This is a LE Remote reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-rcu">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk ble_rcu</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,remote,HID">
+    <name>HID LE Remote</name>
     <id>mtb-example-btsdk-hid-ble-remote</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-remote</uri>
     <description><![CDATA[
 <html>
-<body> This is a BLE Remote reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-remote">link</a>.</body>
+<body> This is a LE Remote reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-remote">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk ble_remote</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -551,11 +679,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-dual-mode-keyboard</uri>
     <description><![CDATA[
 <html>
-<body> This is a BR-EDR and BLE keyboard reference application. It is based on HID over GATT Profile (HOGP) for BLE keyboard and HID Device profile for BR-EDR keyboard For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-dual-mode-keyboard">link</a>.</body>
+<body> This is a BR-EDR and LE keyboard reference application. It is based on HID over GATT Profile (HOGP) for LE keyboard and HID Device profile for BR-EDR keyboard For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-dual-mode-keyboard">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk keyboard</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -574,6 +706,10 @@
     <req_capabilities>btsdk color_light</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -590,6 +726,10 @@
     ]]></description>
     <req_capabilities>btsdk dimmer</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -608,6 +748,10 @@
     <req_capabilities>btsdk dimmer_self_config</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -624,6 +768,10 @@
     ]]></description>
     <req_capabilities>btsdk embedded_provisioner</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -642,6 +790,10 @@
     <req_capabilities>btsdk light_dimmable</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -658,6 +810,10 @@
     ]]></description>
     <req_capabilities>btsdk light_smart</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -676,6 +832,10 @@
     <req_capabilities>btsdk low_power_led</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -692,6 +852,10 @@
     ]]></description>
     <req_capabilities>btsdk on_off_switch</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -710,6 +874,10 @@
     <req_capabilities>btsdk sensor_motion</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -726,6 +894,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_sensor_temperature</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -744,6 +916,10 @@
     <req_capabilities>btsdk mesh_switch_smart</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -755,11 +931,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-battery-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-battery-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-battery-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -772,11 +952,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-battery-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-battery-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-battery-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -789,11 +973,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-default-transition-time-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-default-transition-time-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-default-transition-time-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -806,11 +994,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-gateway-proxy</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-gateway-proxy">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-gateway-proxy">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -823,11 +1015,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-level-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-level-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-level-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -840,11 +1036,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-level-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-level-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-level-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -857,11 +1057,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-ctl-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-ctl-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-ctl-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -874,11 +1078,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-ctl-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-ctl-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-ctl-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -891,11 +1099,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -908,11 +1120,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-ctl-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-ctl-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-ctl-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -925,11 +1141,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-ctl-xyl-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-ctl-xyl-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-ctl-xyl-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -942,11 +1162,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -959,11 +1183,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lc-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lc-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lc-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -976,11 +1204,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lc-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lc-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lc-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -993,11 +1225,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lightness-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lightness-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lightness-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1010,11 +1246,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lightness-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lightness-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lightness-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1027,11 +1267,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-xyl-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-xyl-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-xyl-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1044,11 +1288,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-xyl-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-xyl-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-xyl-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1061,11 +1309,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-location-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-location-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-location-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1078,11 +1330,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-location-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-location-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-location-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1095,11 +1351,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-onoff-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-onoff-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-onoff-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1112,11 +1372,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-onoff-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-onoff-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-onoff-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1129,11 +1393,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-perf-testing</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-perf-testing">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-perf-testing">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1146,11 +1414,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-level-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-level-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-level-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1163,11 +1435,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-level-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-level-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-level-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1180,11 +1456,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-onoff-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-onoff-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-onoff-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1197,11 +1477,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-onoff-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-onoff-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-onoff-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1214,11 +1498,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-property-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-property-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-property-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1231,11 +1519,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-property-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-property-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-property-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1248,11 +1540,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-provision-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-provision-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-provision-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1265,11 +1561,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-provision-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-provision-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-provision-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1282,11 +1582,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-scene-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-scene-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-scene-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1299,11 +1603,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-scheduler-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-scheduler-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-scheduler-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1316,11 +1624,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-sensor-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-sensor-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-sensor-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1333,11 +1645,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-sensor-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-sensor-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-sensor-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1350,11 +1666,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-time-client</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-time-client">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-time-client">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1367,11 +1687,15 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-time-server</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-time-server">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-time-server">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1384,28 +1708,53 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-vendor-specific</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of a SIG BLE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-vendor-specific">link</a>.</body>
+<body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-vendor-specific">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
     </versions>
   </app>
+  <app keywords="btsdk,HCI,firmware,upgrade">
+    <name>Firmware Upgrade via HCI</name>
+    <id>mtb-example-btsdk-hci-firmware-upgrade</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hci-firmware-upgrade</uri>
+    <description><![CDATA[
+<html>
+<body> This is a snippet application to demonstrate the use of HCI (MCU) firmware upgrade APIs and library. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hci-firmware-upgrade">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk btsdk_hci_app</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+    </versions>
+  </app>
   <app keywords="btsdk,OTA,firmware,upgrade">
-    <name>OTA Firmware Upgrade</name>
+    <name>Firmware Upgrade via OTA</name>
     <id>mtb-example-btsdk-ota-firmware-upgrade</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ota-firmware-upgrade</uri>
     <description><![CDATA[
 <html>
-<body> This is a snippet application to demonstrate the use of OTA firmware upgrade APIs and library. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ota-firmware-upgrade">link</a>.</body>
+<body> This is a snippet application to demonstrate the use of Over-The-Air (OTA) firmware upgrade APIs and library. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ota-firmware-upgrade">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk btsdk_ota_app</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1424,6 +1773,10 @@
     <req_capabilities>btsdk mapc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -1440,6 +1793,10 @@
     ]]></description>
     <req_capabilities>btsdk opps</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
@@ -1458,6 +1815,10 @@
     <req_capabilities>btsdk pbc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -1475,6 +1836,10 @@
     <req_capabilities>btsdk spp</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
@@ -1491,6 +1856,10 @@
     ]]></description>
     <req_capabilities>btsdk spp_multi_port</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.9.0 release</num>
+        <commit>release-v2.9.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>

@@ -41,17 +41,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-   <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-   <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
-   <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-   <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-   <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-   <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-   <li><u>find_me</u>: BLE FindMe Service</li>
+   <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+   <li><u>env_sensing_temp</u>: LE Environmental Sensing Service</li>
+   <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+   <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+   <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+   <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+   <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -101,16 +101,16 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -136,16 +136,16 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -171,16 +171,16 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -206,16 +206,16 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -261,16 +261,16 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -320,17 +320,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>env_sensing_temp</u>: LE Environmental Sensing Service</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -380,16 +380,16 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -439,17 +439,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>env_sensing_temp</u>: LE Environmental Sensing Service</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -499,15 +499,15 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-    <li><u>find_me</u>: BLE FindMe Service</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+    <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -553,14 +553,14 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -606,13 +606,13 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -654,13 +654,13 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -702,14 +702,14 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
+    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -747,11 +747,11 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
+    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -789,17 +789,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-   <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-   <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
-   <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-   <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-   <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-   <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-   <li><u>find_me</u>: BLE FindMe Service</li>
+   <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+   <li><u>env_sensing_temp</u>: LE Environmental Sensing Service</li>
+   <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+   <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+   <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+   <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+   <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -833,17 +833,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-   <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-   <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
-   <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-   <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-   <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-   <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-   <li><u>find_me</u>: BLE FindMe Service</li>
+   <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+   <li><u>env_sensing_temp</u>: LE Environmental Sensing Service</li>
+   <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+   <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+   <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+   <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+   <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -877,17 +877,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates BLE protocols and functionality.</p>
+  <p>This application group demonstrates LE protocols and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-   <li><u>hello_sensor</u> and <u>hello_client</u>: BLE Vendor Specific Service and Client</li>
-   <li><u>env_sensing_temp</u>: BLE Environmental Sensing Service</li>
-   <li><u>ans</u> and <u>anc</u>: BLE Alert Notification Service and Client</li>
-   <li><u>bas</u> and <u>bac</u>: BLE Battery Service and Client</li>
-   <li><u>hrs</u> and <u>hrc</u>: BLE Heart Rate Monitor Service and Client</li>
-   <li><u>le_coc</u>: BLE Connection Oriented Channel</li>
-   <li><u>find_me</u>: BLE FindMe Service</li>
+   <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
+   <li><u>env_sensing_temp</u>: LE Environmental Sensing Service</li>
+   <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
+   <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
+   <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
+   <li><u>le_coc</u>: LE Connection Oriented Channel</li>
+   <li><u>find_me</u>: LE FindMe Service</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -937,18 +937,18 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
+  <p>This application group demonstrates implementation of LE Mesh Models.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>color_light</u>: Colored light shows implementation of Light HSL (Hue, Saturation, and Lightness) model.</li>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
     <li><u>light_smart</u>: Implementation of a smart light based on Light Lightness and LC models.</li>
     <li><u>low_power_led</u>: Implementation of a low power LED system, includes Low Power Server and Friend Node.</li>
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-    <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_hub</u>: Sensor hub app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_motion</u>: Motion sensor app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of LE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
     <li><u>embedded_provisioner</u>: Demo of a self configured mesh network that includes one node that acts as a provisioner.</li>
   </ul>
@@ -1000,7 +1000,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1049,17 +1049,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
+  <p>This application group demonstrates implementation of LE Mesh Models.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
     <li><u>light_smart</u>: Implementation of a smart light based on Light Lightness and LC models.</li>
     <li><u>low_power_led</u>: Implementation of a low power LED system, includes Low Power Server and Friend Node.</li>
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-    <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_hub</u>: Sensor hub app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_motion</u>: Motion sensor app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of LE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
     <li><u>embedded_provisioner</u>: Demo of a self configured mesh network that includes one node that acts as a provisioner.</li>
   </ul>
@@ -1111,7 +1111,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1160,15 +1160,15 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p
+  <p>This application group demonstrates implementation of LE Mesh Models.</p
   <h4>Applications included:</h4>
   <ul>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
     <li><u>light_smart</u>: Implementation of a smart light based on Light Lightness and LC models.</li>
     <li><u>low_power_led</u>: Implementation of a low power LED system, includes Low Power Server and Friend Node.</li>
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-    <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_hub</u>: Sensor hub app showing implementation of LE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
     <li><u>embedded_provisioner</u>: Demo of a self configured mesh network that includes one node that acts as a provisioner.</li>
   </ul>
@@ -1220,7 +1220,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-    <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+    <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1269,17 +1269,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
+  <p>This application group demonstrates implementation of LE Mesh Models.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
     <li><u>light_smart</u>: Implementation of a smart light based on Light Lightness and LC models.</li>
     <li><u>low_power_led</u>: Implementation of a low power LED system, includes Low Power Server and Friend Node.</li>
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-    <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_hub</u>: Sensor hub app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_motion</u>: Motion sensor app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of LE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
     <li><u>embedded_provisioner</u>: Demo of a self configured mesh network that includes one node that acts as a provisioner.</li>
   </ul>
@@ -1331,7 +1331,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1376,17 +1376,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
+  <p>This application group demonstrates implementation of LE Mesh Models.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
     <li><u>light_smart</u>: Implementation of a smart light based on Light Lightness and LC models.</li>
     <li><u>low_power_led</u>: Implementation of a low power LED system, includes Low Power Server and Friend Node.</li>
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-    <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_hub</u>: Sensor hub app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_motion</u>: Motion sensor app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of LE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
     <li><u>embedded_provisioner</u>: Demo of a self configured mesh network that includes one node that acts as a provisioner.</li>
   </ul>
@@ -1434,7 +1434,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1479,17 +1479,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
+  <p>This application group demonstrates implementation of LE Mesh Models.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
     <li><u>light_smart</u>: Implementation of a smart light based on Light Lightness and LC models.</li>
     <li><u>low_power_led</u>: Implementation of a low power LED system, includes Low Power Server and Friend Node.</li>
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-    <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_hub</u>: Sensor hub app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_motion</u>: Motion sensor app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of LE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
     <li><u>embedded_provisioner</u>: Demo of a self configured mesh network that includes one node that acts as a provisioner.</li>
   </ul>
@@ -1537,7 +1537,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1582,17 +1582,17 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
+  <p>This application group demonstrates implementation of LE Mesh Models.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
     <li><u>light_smart</u>: Implementation of a smart light based on Light Lightness and LC models.</li>
     <li><u>low_power_led</u>: Implementation of a low power LED system, includes Low Power Server and Friend Node.</li>
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-    <li><u>sensor_hub</u>: Sensor hub app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_motion</u>: Motion sensor app showing implementation of BLE Mesh Sensor Server model.</li>
-    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of BLE Mesh Sensor Server model.</li>
+    <li><u>sensor_hub</u>: Sensor hub app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_motion</u>: Motion sensor app showing implementation of LE Mesh Sensor Server model.</li>
+    <li><u>sensor_temperature</u>: Temperature sensor app showing implementation of LE Mesh Sensor Server model.</li>
     <li><u>switch_smart</u>: Implementation of a motion sensor combined with the on off button functionality.</li>
     <li><u>embedded_provisioner</u>: Demo of a self configured mesh network that includes one node that acts as a provisioner.</li>
   </ul>
@@ -1640,7 +1640,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1685,11 +1685,11 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
+  <p>This application group demonstrates implementation of LE Mesh Models.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1731,11 +1731,11 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of BLE Mesh Models.</p>
+  <p>This application group demonstrates implementation of LE Mesh Models.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the BLE Mesh Light Lightness Server model.</li>
+    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
     <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -1782,7 +1782,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1827,7 +1827,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1868,7 +1868,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -1909,7 +1909,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG BLE Mesh models as indicated by the name of each application in the group.</p>
+  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
 </html>
@@ -2946,9 +2946,9 @@
   <p>This application group demonstrates Human Interface Devices.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>dual_mode_keyboard</u>: Dual mode keyboard supports BR-EDR HID profile and BLE HIDD Over GATT profile.</li>
-    <li><u>ble_mouse</u>: BLE Mouse application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
-    <li><u>ble_remote</u>: BLE Remote Control application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
+    <li><u>dual_mode_keyboard</u>: Dual mode keyboard supports BR-EDR HID profile and LE HIDD Over GATT profile.</li>
+    <li><u>ble_mouse</u>: LE Mouse application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
+    <li><u>ble_remote</u>: LE Remote Control application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3001,9 +3001,9 @@
   <p>This application group demonstrates Human Interface Devices.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>dual_mode_keyboard</u>: Dual mode keyboard supports BR-EDR HID profile and BLE HIDD Over GATT profile.</li>
-    <li><u>ble_mouse</u>: BLE Mouse application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
-    <li><u>ble_remote</u>: BLE Remote Control application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
+    <li><u>dual_mode_keyboard</u>: Dual mode keyboard supports BR-EDR HID profile and LE HIDD Over GATT profile.</li>
+    <li><u>ble_mouse</u>: LE Mouse application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
+    <li><u>ble_remote</u>: LE Remote Control application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3052,7 +3052,7 @@
   <p>This application group demonstrates Human Interface Devices.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>dual_mode_keyboard</u>: Turnkey Keyboard solution that supports BR-EDR HID profile and BLE HIDD Over GATT profile, and using on-chip keyscan HW component.</li>
+    <li><u>dual_mode_keyboard</u>: Turnkey Keyboard solution that supports BR-EDR HID profile and LE HIDD Over GATT profile, and using on-chip keyscan HW component.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3097,9 +3097,9 @@
   <p>This application group demonstrates Human Interface Devices.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>dual_mode_keyboard</u>: Dual mode keyboard supports BR-EDR HID profile and BLE HIDD Over GATT profile.</li>
-    <li><u>ble_mouse</u>: BLE Mouse application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
-    <li><u>ble_remote</u>: BLE Remote Control application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
+    <li><u>dual_mode_keyboard</u>: Dual mode keyboard supports BR-EDR HID profile and LE HIDD Over GATT profile.</li>
+    <li><u>ble_mouse</u>: LE Mouse application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
+    <li><u>ble_remote</u>: LE Remote Control application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3128,7 +3128,7 @@
   <p>This application group demonstrates Human Interface Devices.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ble_rcu</u>: BLE Remote Control application is a turn key solution for is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
+    <li><u>ble_rcu</u>: LE Remote Control application is a turn key solution for is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3182,7 +3182,7 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>ota_firmware_upgrade</u>:
-      App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+      App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3235,7 +3235,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3284,7 +3284,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3337,7 +3337,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3390,7 +3390,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3443,7 +3443,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3492,7 +3492,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3541,7 +3541,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3586,7 +3586,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3631,7 +3631,7 @@
   <p>This application group demonstrates Over-the-Air firmware updates.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates BLE based OTA Firmware Upgrade functionality.</li>
+    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -4982,16 +4982,16 @@
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
   <p>Do not change the name of this project. BTSDK apps use the project name "wiced_btsdk" in the makefile paths.</p>
-  <h4>This directory contains SDK for BT SDK apps. It includes:</h4>
+  <h4>This directory contains the SDK for BTSDK apps. It includes:</h4>
   <ul>
     <li><u>baselib</u>: Files for chips such as CYW20819, CYW20719, etc.</li>
     <li><u>bsp</u>: Files for BSPs (platforms) supported by BTSDK. For example CYW920721B2EVK-02.</li>
     <li><u>btsdk-include</u>: Common header files needed by all apps and libraries.</li>
     <li><u>btsdk-tools</u>: Build tools needed by BTSDK.</li>
-    <li><u>libraries</u>: Profile libraries used by BTSDK apps such as audio, BLE, HID, etc.</li>
-    <li><u>btsdk-host-apps-bt-ble</u>: Client Control application for BT and BLE embedded apps.</li>
+    <li><u>libraries</u>: Profile libraries used by BTSDK apps such as audio, LE, HID, etc.</li>
+    <li><u>btsdk-host-apps-bt-ble</u>: Client Control application for Bluetooth and Bluetooth Low Energy embedded apps.</li>
     <li><u>btsdk-host-peer-apps-mesh</u>: Client Control application and Peer apps for embedded Mesh apps.</li>
-    <li><u>btsdk-peer-apps-ble</u>: Peer apps for embedded BLE apps.</li>
+    <li><u>btsdk-peer-apps-ble</u>: Peer apps for embedded LE apps.</li>
     <li><u>btsdk-peer-apps-ota</u>: Peer apps for embedded apps that support Over The Air Firmware Upgrade.</li>
     <li><u>btsdk-utils</u>: Utilities used in BTSDK such as BTSpy, wmbt, ecdsa256, etc.</li>
   </ul>
