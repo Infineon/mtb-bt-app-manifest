@@ -3744,7 +3744,7 @@
     <li><u>low_power</u>: App demonstrates low power modes.</li>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
     <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
     <li><u>uart_raw_mode</u>: App demonstrates how to use the HCI UART in Raw Data Mode.</li>
@@ -3803,7 +3803,7 @@
     <li><u>low_power</u>: App demonstrates low power modes.</li>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
     <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
     <li><u>uart_raw_mode</u>: App demonstrates how to use the HCI UART in Raw Data Mode.</li>
@@ -3861,7 +3861,7 @@
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
     <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -4024,7 +4024,7 @@
     <li><u>low_power</u>: App demonstrates low power modes.</li>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
     <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -4076,7 +4076,7 @@
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
     <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>uart_spi_bridge</u>: App implements the SPI Master and act as UART-SPI Bridge.</li>
   </ul>
@@ -4125,7 +4125,7 @@
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
     <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
@@ -4174,7 +4174,7 @@
   <ul>
     <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
     <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in WICED Eval boards.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>

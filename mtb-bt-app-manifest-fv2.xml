@@ -11,8 +11,8 @@
     <req_capabilities>btsdk ble btsdk_empty_app</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -21,6 +21,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -36,8 +44,8 @@
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -46,6 +54,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -61,8 +77,8 @@
     <req_capabilities>btsdk avsink</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -71,6 +87,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -86,8 +110,8 @@
     <req_capabilities>btsdk audio_gateway</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -96,6 +120,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -111,8 +143,8 @@
     <req_capabilities>btsdk handsfree</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -121,6 +153,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -136,8 +176,8 @@
     <req_capabilities>btsdk headset</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -146,6 +186,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -161,8 +209,8 @@
     <req_capabilities>btsdk hs_speaker</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -171,6 +219,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -180,14 +236,14 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-record</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the use of on-board microphone of the WICED boards to record audio. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-record">link</a>.</body>
+<body> This application demonstrates the use of on-board microphone of the AIROC boards to record audio. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-record">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk audio_record</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -196,6 +252,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -211,8 +275,8 @@
     <req_capabilities>btsdk watch</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -221,6 +285,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -236,8 +308,8 @@
     <req_capabilities>btsdk anc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -246,6 +318,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -261,8 +341,8 @@
     <req_capabilities>btsdk ans</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -271,6 +351,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -286,8 +374,8 @@
     <req_capabilities>btsdk batc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -296,6 +384,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -311,8 +407,8 @@
     <req_capabilities>btsdk bats</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -321,6 +417,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -336,8 +440,8 @@
     <req_capabilities>btsdk beacon</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -346,6 +450,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -361,8 +473,8 @@
     <req_capabilities>btsdk lecoc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -371,6 +483,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -386,8 +506,8 @@
     <req_capabilities>btsdk env_sens_temp</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -396,6 +516,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -411,8 +539,8 @@
     <req_capabilities>btsdk findme</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -421,6 +549,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -436,8 +572,8 @@
     <req_capabilities>btsdk hrc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -446,6 +582,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -461,8 +605,8 @@
     <req_capabilities>btsdk hrs</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -471,6 +615,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -486,8 +638,8 @@
     <req_capabilities>btsdk helloc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -496,6 +648,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -511,8 +671,8 @@
     <req_capabilities>btsdk hellos</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -521,6 +681,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -530,14 +698,14 @@
     <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-adc</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates how to configure and use ADC in WICED Evaluation boards to measure DC voltage on various DC input channels. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-adc">link</a>.</body>
+<body> This application demonstrates how to configure and use ADC in AIROC Evaluation boards to measure DC voltage on various DC input channels. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-adc">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk adc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -546,6 +714,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -561,8 +737,8 @@
     <req_capabilities>btsdk gpio</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -571,6 +747,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -586,8 +770,8 @@
     <req_capabilities>btsdk i2c_master</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -596,6 +780,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -611,8 +803,8 @@
     <req_capabilities>btsdk lowpower</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -621,6 +813,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -636,8 +836,8 @@
     <req_capabilities>btsdk puart</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -646,6 +846,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -656,15 +864,15 @@
     <description><![CDATA[
 <html>
 <body> This application demonstrates how to configure and use
- PWM in WICED Eval boards to control the brightness of the
+ PWM in AIROC Eval boards to control the brightness of the
  LEDs onboard. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-pwm">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk pwm</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -673,6 +881,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -688,8 +904,8 @@
     <req_capabilities>btsdk uart_raw</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -698,6 +914,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -713,8 +937,8 @@
     <req_capabilities>btsdk uart_spi</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -723,6 +947,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -738,8 +970,8 @@
     <req_capabilities>btsdk ble_mouse</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -748,6 +980,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -763,8 +1003,8 @@
     <req_capabilities>btsdk ble_rcu</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -773,6 +1013,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -788,8 +1036,8 @@
     <req_capabilities>btsdk ble_remote</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -798,6 +1046,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -813,8 +1069,8 @@
     <req_capabilities>btsdk keyboard</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -823,6 +1079,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -838,8 +1102,8 @@
     <req_capabilities>btsdk color_light</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -848,6 +1112,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -863,8 +1135,8 @@
     <req_capabilities>btsdk dimmer</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -873,6 +1145,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -888,8 +1168,8 @@
     <req_capabilities>btsdk dimmer_self_config</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -898,6 +1178,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -913,8 +1201,8 @@
     <req_capabilities>btsdk embedded_provisioner</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -923,6 +1211,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -938,8 +1234,8 @@
     <req_capabilities>btsdk light_dimmable</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -948,6 +1244,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -963,8 +1267,8 @@
     <req_capabilities>btsdk light_smart</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -973,6 +1277,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -988,8 +1300,8 @@
     <req_capabilities>btsdk low_power_led</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -998,6 +1310,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1013,8 +1333,8 @@
     <req_capabilities>btsdk on_off_switch</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1023,6 +1343,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1038,8 +1366,8 @@
     <req_capabilities>btsdk sensor_motion</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1048,6 +1376,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1063,8 +1399,8 @@
     <req_capabilities>btsdk mesh_sensor_temperature</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1073,6 +1409,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1088,8 +1432,8 @@
     <req_capabilities>btsdk mesh_switch_smart</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1098,6 +1442,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1113,8 +1465,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1123,6 +1475,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1138,8 +1498,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1148,6 +1508,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1163,8 +1531,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1173,6 +1541,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1188,8 +1564,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1198,6 +1574,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1213,8 +1597,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1223,6 +1607,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1238,8 +1630,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1248,6 +1640,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1263,8 +1663,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1273,6 +1673,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1288,8 +1696,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1298,6 +1706,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1313,8 +1729,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1323,6 +1739,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1338,8 +1762,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1348,6 +1772,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1363,8 +1795,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1373,6 +1805,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1388,8 +1828,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1398,6 +1838,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1413,8 +1861,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1423,6 +1871,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1438,8 +1894,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1448,6 +1904,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1463,8 +1927,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1473,6 +1937,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1488,8 +1960,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1498,6 +1970,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1513,8 +1993,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1523,6 +2003,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1538,8 +2026,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1548,6 +2036,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1563,8 +2059,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1573,6 +2069,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1588,8 +2092,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1598,6 +2102,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1613,8 +2125,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1623,6 +2135,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1638,8 +2158,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1648,6 +2168,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1663,8 +2191,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1673,6 +2201,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1688,8 +2224,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1698,6 +2234,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1713,8 +2257,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1723,6 +2267,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1738,8 +2290,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1748,6 +2300,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1763,8 +2323,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1773,6 +2333,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1788,8 +2356,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1798,6 +2366,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1813,8 +2389,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1823,6 +2399,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1838,8 +2422,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1848,6 +2432,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1863,8 +2455,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1873,6 +2465,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1888,8 +2488,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1898,6 +2498,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1913,8 +2521,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1923,6 +2531,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1938,8 +2554,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1948,6 +2564,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1963,8 +2587,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1973,6 +2597,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -1988,8 +2620,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -1998,6 +2630,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2013,8 +2653,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -2023,6 +2663,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2038,8 +2686,8 @@
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -2048,6 +2696,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2063,12 +2719,20 @@
     <req_capabilities>btsdk btsdk_hci_app</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2084,8 +2748,8 @@
     <req_capabilities>btsdk btsdk_ota_app</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -2094,6 +2758,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2109,8 +2781,8 @@
     <req_capabilities>btsdk mapc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -2119,6 +2791,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2134,8 +2814,8 @@
     <req_capabilities>btsdk opps</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -2144,6 +2824,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2159,8 +2847,8 @@
     <req_capabilities>btsdk pbc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -2169,6 +2857,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2184,8 +2880,8 @@
     <req_capabilities>btsdk spp</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -2194,6 +2890,14 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
       </version>
     </versions>
   </app>
@@ -2209,8 +2913,8 @@
     <req_capabilities>btsdk spp_multi_port</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
@@ -2219,6 +2923,35 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,test,hci,loopback">
+    <name>Test HCI Loopback</name>
+    <id>mtb-example-btsdk-loop-back</id>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-loop-back</uri>
+    <description><![CDATA[
+<html>
+<body> This application provides a loopback test for the HCI UART when used with ClientControl running on a PC host, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-loop-back">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk hci_loopback</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
       </version>
     </versions>
   </app>
