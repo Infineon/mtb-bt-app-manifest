@@ -763,10 +763,10 @@
     <name>LE Hello Sensor</name>
     <id>mtb-example-btsdk-ble-hello-sensor-20736</id>
     <category>Bluetooth</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-sensor-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-hello-sensor-20736</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of LE Vendor Specific Server. Use this application along with LE Hello Client application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-sensor-20736">link</a>.</body>
+<body> This application demonstrates the implementation of LE Vendor Specific Server. Use this application along with LE Hello Client application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-hello-sensor-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk hellos20736</req_capabilities>
@@ -785,10 +785,10 @@
     <name>LE Hello Client</name>
     <id>mtb-example-btsdk-ble-hello-client-20736</id>
     <category>Bluetooth</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-client-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-hello-client-20736</uri>
     <description><![CDATA[
 <html>
-<body> This application demonstrates the implementation of LE Vendor Specific Client sample application. Use this application along with LE Hello Sensor application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-client-20736">link</a>.</body>
+<body> This application demonstrates the implementation of LE Vendor Specific Client sample application. Use this application along with LE Hello Sensor application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-hello-client-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk helloc20736</req_capabilities>
@@ -807,10 +807,10 @@
     <name>LE iBeacon</name>
     <id>mtb-example-btsdk-ble-ibeacon-20736</id>
     <category>Bluetooth</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-ibeacon-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-ibeacon-20736</uri>
     <description><![CDATA[
 <html>
-<body>This application demonstrates a BLE iBeacon application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-ibeacon-20736">link</a>.</body>
+<body>This application demonstrates a BLE iBeacon application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-ibeacon-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk ibeacon20736</req_capabilities>
@@ -829,10 +829,10 @@
     <name>LE Beacon</name>
     <id>mtb-example-btsdk-ble-mybeacon-20736</id>
     <category>Bluetooth</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-mybeacon-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-mybeacon-20736</uri>
     <description><![CDATA[
 <html>
-<body>This application demonstrates a BLE Beacon application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-mybeacon-20736">link</a>.</body>
+<body>This application demonstrates a BLE Beacon application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-mybeacon-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk mybeacon20736</req_capabilities>
@@ -851,10 +851,10 @@
     <name>Firmware Upgrade via OTA</name>
     <id>mtb-example-btsdk-ota-firmware-upgrade-20736</id>
     <category>Bluetooth</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ota-firmware-upgrade-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-ota-firmware-upgrade-20736</uri>
     <description><![CDATA[
 <html>
-<body> This is a snippet application to demonstrate the use of Over-The-Air (OTA) firmware upgrade APIs and library. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-ota-firmware-upgrade-20736">link</a>.</body>
+<body> This is a snippet application to demonstrate the use of Over-The-Air (OTA) firmware upgrade APIs and library. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ota-firmware-upgrade-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk btsdk_ota_app_20736</req_capabilities>
@@ -873,10 +873,10 @@
     <name>HAL SPI Master</name>
     <id>mtb-example-btsdk-hal-spi-master-20736</id>
     <category>Peripherals</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-spi-master-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-spi-master-20736</uri>
     <description><![CDATA[
 <html>
-<body>This application demonstrates a HAL SPI master application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-spi-master-20736">link</a>.</body>
+<body>This application demonstrates a HAL SPI master application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-spi-master-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk spimaster20736</req_capabilities>
@@ -895,10 +895,10 @@
     <name>HAL SPI Slave</name>
     <id>mtb-example-btsdk-hal-spi-slave-20736</id>
     <category>Peripherals</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-spi-slave-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-spi-slave-20736</uri>
     <description><![CDATA[
 <html>
-<body>This application demonstrates a HAL SPI slave application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-spi-slave-20736">link</a>.</body>
+<body>This application demonstrates a HAL SPI slave application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-spi-slave-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk spislave20736</req_capabilities>
@@ -917,10 +917,10 @@
     <name>HAL PWM Tones</name>
     <id>mtb-example-btsdk-hal-pwm-20736</id>
     <category>Peripherals</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-pwm-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-pwm-20736</uri>
     <description><![CDATA[
 <html>
-<body>This application demonstrates a HAL PWM tones application. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-pwm-20736">link</a>.</body>
+<body>This application demonstrates a HAL PWM tones application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-pwm-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk pwm20736</req_capabilities>
@@ -939,10 +939,10 @@
     <name>HAL RTC</name>
     <id>mtb-example-btsdk-hal-rtc-20736</id>
     <category>Peripherals</category>
-    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-rtc-20736</uri>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-rtc-20736</uri>
     <description><![CDATA[
 <html>
-<body>This application provides the sample code for interfacing with the on-chip RTC clock. For more information, see the README in this <a href="https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-rtc-20736">link</a>.</body>
+<body>This application provides the sample code for interfacing with the on-chip RTC clock. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-rtc-20736">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk rtc20736</req_capabilities>
