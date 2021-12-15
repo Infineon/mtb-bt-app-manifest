@@ -2,7 +2,7 @@
   <app>
     <name>BLE-20719B2EVB01</name>
     <id>ble_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -62,7 +62,7 @@
   <app>
     <name>BLE-20721B2EVK03</name>
     <id>ble_CYW920721B2EVK_03</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-03-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -121,7 +121,7 @@
   <app>
     <name>BLE-CYBT423060EVAL</name>
     <id>ble_CYBT_423060_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-423060-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-423060-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -156,7 +156,7 @@
   <app>
     <name>BLE-CYBT483062EVAL</name>
     <id>ble_CYBT_483062_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-483062-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-483062-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -191,7 +191,7 @@
   <app>
     <name>BLE-CYBT413061EVAL</name>
     <id>ble_CYBT_413061_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-413061-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-413061-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -226,7 +226,7 @@
   <app>
     <name>BLE-20721B2EVK02</name>
     <id>ble_CYW920721B2EVK_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-02-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -281,7 +281,7 @@
   <app>
     <name>BLE-20819EVB02</name>
     <id>ble_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -341,7 +341,7 @@
   <app>
     <name>BLE-213043EVAL</name>
     <id>ble_CYBT_213043_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -400,7 +400,7 @@
   <app>
     <name>BLE-20820EVB02</name>
     <id>ble_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -460,7 +460,7 @@
   <app>
     <name>BLE-989820EVB01</name>
     <id>ble_CYW989820EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW989820EVB-01-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -518,7 +518,7 @@
   <app>
     <name>BLE-20706WCDEVAL</name>
     <id>ble_CYW920706WCDEVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920706WCDEVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -571,7 +571,7 @@
   <app>
     <name>BLE-CYBT353027</name>
     <id>ble_BLE-CYBT353027</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-353027-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -623,7 +623,7 @@
   <app>
     <name>BLE-CYBT343026</name>
     <id>ble_BLE-CYBT343026</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-343026-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -671,7 +671,7 @@
   <app>
     <name>BLE-CYW920735Q60EVB01</name>
     <id>ble_BLE-CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920735Q60EVB-01-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -720,7 +720,7 @@
   <app>
     <name>BLE-CYW9M2BASE43012BT</name>
     <id>ble_BLE-CYW9M2BASE_43012BT</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW9M2BASE-43012BT-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -762,7 +762,7 @@
   <app>
     <name>BLE-CYBT423054EVAL</name>
     <id>ble_CYBT_423054_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-423054-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-423054-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -810,7 +810,7 @@
   <app>
     <name>BLE-CYBT413055EVAL</name>
     <id>ble_CYBT_413055_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-413055-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-413055-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -854,7 +854,7 @@
   <app>
     <name>BLE-CYBT483056EVAL</name>
     <id>ble_CYBT_483056_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-483056-EVAL-btsdk-ble</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-483056-EVAL-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -898,7 +898,7 @@
   <app>
     <name>Mesh-Demo-213043MESH</name>
     <id>mesh_demo_CYBT_213043_MESH</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-MESH-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-MESH-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -961,7 +961,7 @@
   <app>
     <name>Mesh-Snip-213043MESH</name>
     <id>mesh_snip_CYBT_213043_MESH</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-MESH-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-MESH-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1010,7 +1010,7 @@
   <app>
     <name>Mesh-Demo-20819EVB02</name>
     <id>mesh_demo_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1072,7 +1072,7 @@
   <app>
     <name>Mesh-Snip-20819EVB02</name>
     <id>mesh_snip_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1121,7 +1121,7 @@
   <app>
     <name>Mesh-Demo-213043EVAL</name>
     <id>mesh_demo_CYBT_213043_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-EVAL-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1181,7 +1181,7 @@
   <app>
     <name>Mesh-Snip-213043EVAL</name>
     <id>mesh_snip_CYBT_213043_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-EVAL-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1230,7 +1230,7 @@
   <app>
     <name>Mesh-Demo-20820EVB02</name>
     <id>mesh_demo_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1292,7 +1292,7 @@
   <app>
     <name>Mesh-Snip-20820EVB02</name>
     <id>mesh_snip_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1341,7 +1341,7 @@
   <app>
     <name>Mesh-Demo-20719B2EVB01</name>
     <id>mesh_demo_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1399,7 +1399,7 @@
   <app>
     <name>Mesh-Snip-20719B2EVB01</name>
     <id>mesh_snip_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1444,7 +1444,7 @@
   <app>
     <name>Mesh-Demo-20721B2EVK03</name>
     <id>mesh_demo_CYW920721B2EVK_03</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-03-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1502,7 +1502,7 @@
   <app>
     <name>Mesh-Snip-20721B2EVK03</name>
     <id>mesh_snip_CYW920721B2EVK_03</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-03-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1547,7 +1547,7 @@
   <app>
     <name>Mesh-Demo-20721B2EVK02</name>
     <id>mesh_demo_CYW920721B2EVK_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-02-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1605,7 +1605,7 @@
   <app>
     <name>Mesh-Snip-20721B2EVK02</name>
     <id>mesh_snip_CYW920721B2EVK_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-02-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1650,7 +1650,7 @@
   <app>
     <name>Mesh-Demo-20706WCDEVAL</name>
     <id>mesh_demo_CYW920706WCDEVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1700,7 +1700,7 @@
   <app>
     <name>Mesh-Demo-CYW920735Q60EVB01</name>
     <id>mesh_demo_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-demo</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-demo</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1747,7 +1747,7 @@
   <app>
     <name>Mesh-Snip-20706WCDEVAL</name>
     <id>mesh_snip_CYW920706WCDEVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1792,7 +1792,7 @@
   <app>
     <name>Mesh-Snip-CYBT-353027</name>
     <id>mesh_snip_CYBT-353027</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-353027-EVAL-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1837,7 +1837,7 @@
   <app>
     <name>Mesh-Snip-CYBT-343026</name>
     <id>mesh_snip_CYBT-343026</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-343026-EVAL-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1878,7 +1878,7 @@
   <app>
     <name>Mesh-Snip-CYW920735Q60EVB01</name>
     <id>mesh_snip_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-snip</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-snip</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1919,7 +1919,7 @@
   <app>
     <name>Audio-20719B2EVB01</name>
     <id>audio_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-audio</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-audio</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -1958,11 +1958,11 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <p>This application group demonstrates Bluetooth&#174; Audio profiles and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gateway profile.</li>
+    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth&#174; A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
+    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth&#174; Audio Gateway profile.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -1973,7 +1973,7 @@
   <app>
     <name>Audio-20721B2EVK03</name>
     <id>audio_CYW920721B2EVK_03</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-audio</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-03-btsdk-audio</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2012,12 +2012,12 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <p>This application group demonstrates Bluetooth&#174; Audio profiles and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
+    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth&#174; A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
     <li><u>audio_record</u>: Sample app demonstrating audio record and playback.</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gateway profile.</li>
+    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth&#174; Audio Gateway profile.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2028,7 +2028,7 @@
   <app>
     <name>Audio-20721B2EVK02</name>
     <id>audio_CYW920721B2EVK_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-audio</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-02-btsdk-audio</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2063,15 +2063,15 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <p>This application group demonstrates Bluetooth&#174; Audio profiles and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth A2DP sink profile.</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gateway profile.</li>
+    <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth&#174; A2DP sink profile.</li>
+    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth&#174; Audio Gateway profile.</li>
     <li><u>audio_record</u>: Sample app demonstrating audio record and playback.</li>
-    <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth Handsfree profile.</li>
-    <li><u>headset_speaker</u>: A Bluetooth Headset/Speaker reference app demonstrating Bluetooth A2DP sink, AVRCP Controller/Target, and Handsfree profiles, as well as AAC.</li>
-    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
+    <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth&#174; Handsfree profile.</li>
+    <li><u>headset_speaker</u>: A Bluetooth&#174; Headset/Speaker reference app demonstrating Bluetooth&#174; A2DP sink, AVRCP Controller/Target, and Handsfree profiles, as well as AAC.</li>
+    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth&#174; A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2082,7 +2082,7 @@
   <app>
     <name>Audio-20819EVB02</name>
     <id>audio_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-audio</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-audio</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2121,10 +2121,10 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <p>This application group demonstrates Bluetooth&#174; Audio profiles and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
+    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth&#174; A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2135,7 +2135,7 @@
   <app>
     <name>Audio-20820EVB02</name>
     <id>audio_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-audio</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-audio</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2174,10 +2174,10 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <p>This application group demonstrates Bluetooth&#174; Audio profiles and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
+    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth&#174; A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2188,7 +2188,7 @@
   <app>
     <name>Audio-20706WCDEVAL</name>
     <id>audio_CYW920706WCDEVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-audio</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920706WCDEVAL-btsdk-audio</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2223,14 +2223,14 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <p>This application group demonstrates Bluetooth&#174; Audio profiles and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth A2DP sink profile.</li>
-    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth Audio Gateway profile.</li>
-    <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth Handsfree profile.</li>
-    <li><u>headset</u>: A reference app demonstrating Bluetooth headset.</li>
-    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
+    <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth&#174; A2DP sink profile.</li>
+    <li><u>audio_gateway</u>: Sample app demonstrating Bluetooth&#174; Audio Gateway profile.</li>
+    <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth&#174; Handsfree profile.</li>
+    <li><u>headset</u>: A reference app demonstrating Bluetooth&#174; headset.</li>
+    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth&#174; A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2241,7 +2241,7 @@
   <app>
     <name>Audio-CYW9M2BASE43012BT</name>
     <id>audio_CYW9M2BASE_43012BT</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-audio</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW9M2BASE-43012BT-btsdk-audio</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2268,13 +2268,13 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <p>This application group demonstrates Bluetooth&#174; Audio profiles and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth A2DP sink profile.</li>
-    <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth Handsfree profile.</li>
-    <li><u>headset_speaker</u>: A reference app demonstrating Bluetooth headset.</li>
-    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
+    <li><u>a2dp_sink</u>: Sample app demonstrating Bluetooth&#174; A2DP sink profile.</li>
+    <li><u>hci_handsfree</u>: Sample app demonstrating Bluetooth&#174; Handsfree profile.</li>
+    <li><u>headset_speaker</u>: A reference app demonstrating Bluetooth&#174; headset.</li>
+    <li><u>watch</u>: A Smart Watch reference app demonstrating Bluetooth&#174; A2DP source, AVRCP Controller/Target, Apple Media Service (AMS), and Apple Notification Center Service (ANCS).</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -2285,7 +2285,7 @@
   <app>
     <name>RFCOMM-213043EVAL</name>
     <id>rfcomm_CYBT_213043_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-EVAL-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2324,7 +2324,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2338,7 +2338,7 @@
   <app>
     <name>RFCOMM-20719B2EVB01</name>
     <id>rfcomm_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2377,7 +2377,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile (SPP).</li>
@@ -2395,7 +2395,7 @@
   <app>
     <name>RFCOMM-20721B2EVK03</name>
     <id>rfcomm_CYW920721B2EVK_03</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-03-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2434,7 +2434,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2451,7 +2451,7 @@
   <app>
     <name>RFCOMM-20721B2EVK02</name>
     <id>rfcomm_CYW920721B2EVK_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-02-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2486,7 +2486,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2504,7 +2504,7 @@
   <app>
     <name>RFCOMM-20819EVB02</name>
     <id>rfcomm_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2543,7 +2543,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2559,7 +2559,7 @@
   <app>
     <name>RFCOMM-20820EVB02</name>
     <id>rfcomm_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2598,7 +2598,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2614,7 +2614,7 @@
   <app>
     <name>RFCOMM-989820EVB01</name>
     <id>rfcomm_CYW989820EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW989820EVB-01-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2653,7 +2653,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2667,7 +2667,7 @@
   <app>
     <name>RFCOMM-20706WCDEVAL</name>
     <id>rfcomm_CYW920706WCDEVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920706WCDEVAL-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2702,7 +2702,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2719,7 +2719,7 @@
   <app>
     <name>RFCOMM-CYBT-353027</name>
     <id>rfcomm_CYBT-353027</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-353027-EVAL-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2754,7 +2754,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2770,7 +2770,7 @@
   <app>
     <name>RFCOMM-CYBT-343026</name>
     <id>rfcomm_CYBT-343026</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-343026-EVAL-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2801,7 +2801,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2817,7 +2817,7 @@
   <app>
     <name>RFCOMM-CYW920735Q60EVB01</name>
     <id>rfcomm_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920735Q60EVB-01-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2848,7 +2848,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth RFCOMM profiles.</p>
+  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2862,7 +2862,7 @@
   <app>
     <name>RFCOMM-CYW9M2BASE43012BT</name>
     <id>rfcomm_CYW9M2BASE_43012BT</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW9M2BASE-43012BT-btsdk-rfcomm</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2889,7 +2889,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Bluetooth Audio profiles and functionality.</p>
+  <p>This application group demonstrates Bluetooth&#174; Audio profiles and functionality.</p>
   <h4>Applications included:</h4>
   <ul>
     <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
@@ -2904,7 +2904,7 @@
   <app>
     <name>HID-20819EVB02</name>
     <id>hid_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-hid</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-hid</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -2959,7 +2959,7 @@
   <app>
     <name>HID-20820EVB02</name>
     <id>hid_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-hid</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-hid</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3014,7 +3014,7 @@
   <app>
     <name>HID-20819REF-KB</name>
     <id>hid_CYW920819REF-KB-01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819REF-KB-01-btsdk-hid</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819REF-KB-01-btsdk-hid</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3063,7 +3063,7 @@
   <app>
     <name>HID-CYW920735Q60EVB01</name>
     <id>hid_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-hid</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920735Q60EVB-01-btsdk-hid</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3110,7 +3110,7 @@
   <app>
     <name>HID-CYW920835REFRCU</name>
     <id>hid_CYW920835REF_RCU_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920835REF-RCU-01-btsdk-hid</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920835REF-RCU-01-btsdk-hid</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3139,7 +3139,7 @@
   <app>
     <name>OTA-20719B2EVB01</name>
     <id>ota_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3193,7 +3193,7 @@
   <app>
     <name>OTA-20721B2EVK03</name>
     <id>ota_CYW920721B2EVK_03</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-03-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3246,7 +3246,7 @@
   <app>
     <name>OTA-20721B2EVK02</name>
     <id>ota_CYW920721B2EVK_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-02-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3295,7 +3295,7 @@
   <app>
     <name>OTA-20819EVB02</name>
     <id>ota_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3348,7 +3348,7 @@
   <app>
     <name>OTA-20820EVB02</name>
     <id>ota_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3401,7 +3401,7 @@
   <app>
     <name>OTA-989820EVB01</name>
     <id>ota_CYW989820EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW989820EVB-01-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3454,7 +3454,7 @@
   <app>
     <name>OTA-20706WCDEVAL</name>
     <id>ota_CYW920706WCDEVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920706WCDEVAL-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3503,7 +3503,7 @@
   <app>
     <name>OTA-CYBT-353027</name>
     <id>ota_CYBT-353027</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-353027-EVAL-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3552,7 +3552,7 @@
   <app>
     <name>OTA-CYBT-343026</name>
     <id>ota_CYBT-343026</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-343026-EVAL-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3597,7 +3597,7 @@
   <app>
     <name>OTA-CYW920735Q60EVB01</name>
     <id>ota_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-ota</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920735Q60EVB-01-btsdk-ota</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3642,7 +3642,7 @@
   <app>
     <name>HAL-20719B2EVB01</name>
     <id>hal_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3684,8 +3684,8 @@
   <p>This application group demonstrates HAL.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
     <li><u>uart_raw_mode</u>: App demonstrates how to use the HCI UART in Raw Data Mode.</li>
@@ -3699,7 +3699,7 @@
   <app>
     <name>HAL-20819EVB02</name>
     <id>hal_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3742,9 +3742,9 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>low_power</u>: App demonstrates low power modes.</li>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC&#8482; Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
     <li><u>uart_raw_mode</u>: App demonstrates how to use the HCI UART in Raw Data Mode.</li>
@@ -3758,7 +3758,7 @@
   <app>
     <name>HAL-20820EVB02</name>
     <id>hal_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3801,9 +3801,9 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>low_power</u>: App demonstrates low power modes.</li>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC&#8482; Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
     <li><u>uart_raw_mode</u>: App demonstrates how to use the HCI UART in Raw Data Mode.</li>
@@ -3817,7 +3817,7 @@
   <app>
     <name>HAL-989820EVB01</name>
     <id>hal_CYW989820EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW989820EVB-01-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3859,9 +3859,9 @@
   <p>This application group demonstrates HAL.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC&#8482; Eval boards.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -3873,7 +3873,7 @@
   <app>
     <name>HAL-20721B2EVK03</name>
     <id>hal_CYW920721B2EVK_03</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-03-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3915,8 +3915,8 @@
   <p>This application group demonstrates HAL.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
 </body>
@@ -3927,7 +3927,7 @@
   <app>
     <name>HAL-20721B2EVK02</name>
     <id>hal_CYW920721B2EVK_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-02-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -3965,8 +3965,8 @@
   <p>This application group demonstrates HAL.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>uart_raw_mode</u>: App demonstrates how to use the HCI UART in Raw Data Mode.</li>
   </ul>
@@ -3979,7 +3979,7 @@
   <app>
     <name>HAL-213043EVAL</name>
     <id>hal_CYBT_213043_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-EVAL-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4022,9 +4022,9 @@
   <h4>Applications included:</h4>
   <ul>
     <li><u>low_power</u>: App demonstrates low power modes.</li>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC&#8482; Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -4036,7 +4036,7 @@
   <app>
     <name>HAL-20706WCDEVAL</name>
     <id>hal_CYW920706WCDEVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920706WCDEVAL-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4074,9 +4074,9 @@
   <p>This application group demonstrates HAL.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC&#8482; Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>uart_spi_bridge</u>: App implements the SPI Master and act as UART-SPI Bridge.</li>
   </ul>
@@ -4089,7 +4089,7 @@
   <app>
     <name>HAL-CYW920735Q60EVB01</name>
     <id>hal_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920735Q60EVB-01-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4123,9 +4123,9 @@
   <p>This application group demonstrates HAL.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC&#8482; Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
     <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
   </ul>
@@ -4138,7 +4138,7 @@
   <app>
     <name>HAL-CYBT-343026</name>
     <id>hal_CYBT-343026</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-hal</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-343026-EVAL-btsdk-hal</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4172,9 +4172,9 @@
   <p>This application group demonstrates HAL.</p>
   <h4>Applications included:</h4>
   <ul>
-    <li><u>gpio</u>: App demonstrates use of WICED GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over WICED Peripheral UART.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC Eval boards.</li>
+    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
+    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
+    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC&#8482; Eval boards.</li>
     <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
   </ul>
   <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
@@ -4186,7 +4186,7 @@
   <app>
     <name>Empty-20719B2EVB01</name>
     <id>empty_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4225,7 +4225,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4234,7 +4234,7 @@
   <app>
     <name>Empty-20721B2EVK03</name>
     <id>empty_CYW920721B2EVK_03</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-03-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-03-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4273,7 +4273,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4282,7 +4282,7 @@
   <app>
     <name>Empty-CYBT423060EVAL</name>
     <id>empty_CYBT_423060_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-423060-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-423060-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4297,7 +4297,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4306,7 +4306,7 @@
   <app>
     <name>Empty-CYBT413061EVAL</name>
     <id>empty_CYBT_413061_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-413061-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-413061-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4321,7 +4321,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4330,7 +4330,7 @@
   <app>
     <name>Empty-CYBT483062EVAL</name>
     <id>empty_CYBT_483062_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-483062-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-483062-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4345,7 +4345,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4354,7 +4354,7 @@
   <app>
     <name>Empty-20721B2EVK02</name>
     <id>empty_CYW920721B2EVK_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920721B2EVK-02-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920721B2EVK-02-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4389,7 +4389,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4398,7 +4398,7 @@
   <app>
     <name>Empty-20819EVB02</name>
     <id>empty_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920819EVB-02-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4437,7 +4437,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4446,7 +4446,7 @@
   <app>
     <name>Empty-20820EVB02</name>
     <id>empty_CYW920820EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920820EVB-02-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4485,7 +4485,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4494,7 +4494,7 @@
   <app>
     <name>Empty-989820EVB01</name>
     <id>empty_CYW989820EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW989820EVB-01-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW989820EVB-01-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4533,7 +4533,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4542,7 +4542,7 @@
   <app>
     <name>Empty-213043EVAL</name>
     <id>empty_CYBT_213043_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4581,7 +4581,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4590,7 +4590,7 @@
   <app>
     <name>Empty-20706WCDEVAL</name>
     <id>empty_CYW920706WCDEVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920706WCDEVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4625,7 +4625,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4634,7 +4634,7 @@
   <app>
     <name>Empty-CYBT-353027</name>
     <id>empty_CYBT-353027</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-353027-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-353027-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4669,7 +4669,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4678,7 +4678,7 @@
   <app>
     <name>Empty-CYBT-343026</name>
     <id>empty_CYBT-343026</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-343026-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-343026-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4709,7 +4709,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4718,7 +4718,7 @@
   <app>
     <name>Empty-CYW920735Q60EVB01</name>
     <id>empty_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920735Q60EVB-01-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4749,7 +4749,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4758,7 +4758,7 @@
   <app>
     <name>Empty-CYW9M2BASE43012BT</name>
     <id>empty_CYW9M2BASE_43012BT</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW9M2BASE-43012BT-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4785,7 +4785,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4794,7 +4794,7 @@
   <app>
     <name>Empty-CYBT423054EVAL</name>
     <id>empty_CYBT_423054_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-423054-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-423054-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4821,7 +4821,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4830,7 +4830,7 @@
   <app>
     <name>Empty-CYBT413055EVAL</name>
     <id>empty_CYBT_413055_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-413055-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-413055-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4853,7 +4853,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4862,7 +4862,7 @@
   <app>
     <name>Empty-CYBT483056EVAL</name>
     <id>empty_CYBT_483056_EVAL</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-483056-EVAL-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-483056-EVAL-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4885,7 +4885,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4894,7 +4894,7 @@
   <app>
     <name>Empty-213043MESH</name>
     <id>empty_CYBT_213043_MESH</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYBT-213043-MESH-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYBT-213043-MESH-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4909,7 +4909,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4918,7 +4918,7 @@
   <app>
     <name>Empty-CYW920835REFRCU</name>
     <id>empty_CYW920835REF_RCU_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920835REF-RCU-01-btsdk-empty</uri>
+    <uri>https://github.com/Infineon/mtb-examples-CYW920835REF-RCU-01-btsdk-empty</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
@@ -4933,7 +4933,7 @@
 <html>
 <body>
   <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth stack.</p>
+  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
 </body>
 </html>
     ]]></description>
@@ -4989,7 +4989,7 @@
     <li><u>btsdk-include</u>: Common header files needed by all apps and libraries.</li>
     <li><u>btsdk-tools</u>: Build tools needed by BTSDK.</li>
     <li><u>libraries</u>: Profile libraries used by BTSDK apps such as audio, LE, HID, etc.</li>
-    <li><u>btsdk-host-apps-bt-ble</u>: Client Control application for Bluetooth and Bluetooth Low Energy embedded apps.</li>
+    <li><u>btsdk-host-apps-bt-ble</u>: Client Control application for Bluetooth&#174; and Bluetooth&#174; Low Energy embedded apps.</li>
     <li><u>btsdk-host-peer-apps-mesh</u>: Client Control application and Peer apps for embedded Mesh apps.</li>
     <li><u>btsdk-peer-apps-ble</u>: Peer apps for embedded LE apps.</li>
     <li><u>btsdk-peer-apps-ota</u>: Peer apps for embedded apps that support Over The Air Firmware Upgrade.</li>
