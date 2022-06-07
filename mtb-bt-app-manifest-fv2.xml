@@ -3,7 +3,7 @@
     <name>Empty BTSDK App</name>
     <id>mtb-example-btsdk-empty</id>
     <category>Getting Started</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-empty</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-empty</uri>
     <description><![CDATA[
 <html>
 <body> This is an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-empty">link</a>.</body>
@@ -11,6 +11,10 @@
     ]]></description>
     <req_capabilities>btsdk ble btsdk_empty_app</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -45,7 +49,7 @@
     <name>AIROC BTSDK Tools</name>
     <id>mtb-example-btsdk-wiced-tools</id>
     <category>Manufacturing</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-wiced-tools</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-wiced-tools</uri>
     <description><![CDATA[
 <html>
 <body> This is an empty project that comes with all the AIROC&#8482; BTSDK Tools. It is provided as a means to obtain all the tools at once. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-wiced-tools">link</a>.</body>
@@ -53,6 +57,10 @@
     ]]></description>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -87,7 +95,7 @@
     <name>Audio Sink</name>
     <id>mtb-example-btsdk-audio-a2dp-sink</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-a2dp-sink</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-a2dp-sink</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of Audio Sink profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-a2dp-sink">link</a>.</body>
@@ -95,6 +103,10 @@
     ]]></description>
     <req_capabilities>btsdk avsink</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -129,7 +141,7 @@
     <name>Audio Gateway</name>
     <id>mtb-example-btsdk-audio-gateway</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-gateway</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-gateway</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of Audio Gateway profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-gateway">link</a>.</body>
@@ -137,6 +149,10 @@
     ]]></description>
     <req_capabilities>btsdk audio_gateway</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -171,7 +187,7 @@
     <name>Audio Handsfree</name>
     <id>mtb-example-btsdk-audio-handsfree</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-handsfree</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-handsfree</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of Handsfree profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-handsfree">link</a>.</body>
@@ -179,6 +195,10 @@
     ]]></description>
     <req_capabilities>btsdk handsfree</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -213,7 +233,7 @@
     <name>Audio Headset</name>
     <id>mtb-example-btsdk-audio-headset</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-headset</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-headset</uri>
     <description><![CDATA[
 <html>
 <body> This is a Headset reference application. It includes support for Audio Sink, Handsfree, and AVRC profiles.  For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-headset">link</a>.</body>
@@ -221,6 +241,10 @@
     ]]></description>
     <req_capabilities>btsdk headset</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -255,7 +279,7 @@
     <name>Audio Headset and Speaker</name>
     <id>mtb-example-btsdk-audio-headset-speaker</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-headset-speaker</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-headset-speaker</uri>
     <description><![CDATA[
 <html>
 <body> This is a Headset and Speaker reference application. It includes support for Audio Sink, Handsfree, and AVRC profiles. It also includes support for AAC Codec. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-headset-speaker">link</a>.</body>
@@ -263,6 +287,10 @@
     ]]></description>
     <req_capabilities>btsdk hs_speaker</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -297,7 +325,7 @@
     <name>Audio Record</name>
     <id>mtb-example-btsdk-audio-record</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-record</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-record</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the use of on-board microphone of the AIROC&#8482; boards to record audio. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-record">link</a>.</body>
@@ -305,6 +333,10 @@
     ]]></description>
     <req_capabilities>btsdk audio_record</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -339,7 +371,7 @@
     <name>Audio Watch</name>
     <id>mtb-example-btsdk-audio-watch</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-watch</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-audio-watch</uri>
     <description><![CDATA[
 <html>
 <body> This is a Smart Watch reference application. It includes support for Audio Source, AVRC, Audio Gateway, and Handsfree profiles. It also supports Apple AMS and ANCS. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-watch">link</a>.</body>
@@ -347,6 +379,10 @@
     ]]></description>
     <req_capabilities>btsdk watch</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -381,7 +417,7 @@
     <name>LE Alert Notification Client</name>
     <id>mtb-example-btsdk-ble-alert-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-alert-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-alert-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of LE Alert Notification Client profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-alert-client">link</a>.</body>
@@ -389,6 +425,10 @@
     ]]></description>
     <req_capabilities>btsdk anc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -423,7 +463,7 @@
     <name>LE Alert Notification Service</name>
     <id>mtb-example-btsdk-ble-alert-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-alert-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-alert-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of LE Alert Notification Service profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-alert-server">link</a>.</body>
@@ -431,6 +471,10 @@
     ]]></description>
     <req_capabilities>btsdk ans</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -465,7 +509,7 @@
     <name>LE Battery Client</name>
     <id>mtb-example-btsdk-ble-battery-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-battery-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of LE Battery Client profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-battery-client">link</a>.</body>
@@ -473,6 +517,10 @@
     ]]></description>
     <req_capabilities>btsdk batc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -507,7 +555,7 @@
     <name>LE Battery Service</name>
     <id>mtb-example-btsdk-ble-battery-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-battery-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-battery-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of LE Battery Service profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-battery-server">link</a>.</body>
@@ -515,6 +563,10 @@
     ]]></description>
     <req_capabilities>btsdk bats</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -549,7 +601,7 @@
     <name>LE Beacon</name>
     <id>mtb-example-btsdk-ble-beacon</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-beacon</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-beacon</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the use of the beacon library to create Google Eddystone and Apple iBeacons advertisements. It also demonstrates the use of multi-advertisement feature. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-beacon">link</a>.</body>
@@ -557,6 +609,10 @@
     ]]></description>
     <req_capabilities>btsdk beacon</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -591,7 +647,7 @@
     <name>LE Connection Oriented Channel</name>
     <id>mtb-example-btsdk-ble-connection-oriented-channel</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-connection-oriented-channel</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-connection-oriented-channel</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the use of LE L2CAP APIs for creating Connection Oriented Channels. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-connection-oriented-channel">link</a>.</body>
@@ -599,6 +655,10 @@
     ]]></description>
     <req_capabilities>btsdk lecoc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -633,7 +693,7 @@
     <name>LE Find Me</name>
     <id>mtb-example-btsdk-ble-find-me</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-find-me</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-find-me</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a simple LE Immediate Alert Service (IAS)-based Find Me Profile (FMP). For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-find-me">link</a>.</body>
@@ -641,6 +701,10 @@
     ]]></description>
     <req_capabilities>btsdk findme</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -675,7 +739,7 @@
     <name>LE Heart Rate Client</name>
     <id>mtb-example-btsdk-ble-heart-rate-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-heart-rate-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-heart-rate-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of Heart Rate Client profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-heart-rate-client">link</a>.</body>
@@ -683,6 +747,10 @@
     ]]></description>
     <req_capabilities>btsdk hrc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -717,7 +785,7 @@
     <name>LE Heart Rate Service</name>
     <id>mtb-example-btsdk-ble-heart-rate-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-heart-rate-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-heart-rate-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of Heart Rate Service profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-heart-rate-server">link</a>.</body>
@@ -725,6 +793,10 @@
     ]]></description>
     <req_capabilities>btsdk hrs</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -759,7 +831,7 @@
     <name>LE Hello Client</name>
     <id>mtb-example-btsdk-ble-hello-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-hello-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of LE Vendor Specific Client sample application. Use this application along with LE Hello Sensor application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-hello-client">link</a>.</body>
@@ -767,6 +839,10 @@
     ]]></description>
     <req_capabilities>btsdk helloc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -801,7 +877,7 @@
     <name>LE Hello Sensor</name>
     <id>mtb-example-btsdk-ble-hello-sensor</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ble-hello-sensor</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ble-hello-sensor</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of LE Vendor Specific Server. Use this application along with LE Hello Client application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ble-hello-sensor">link</a>.</body>
@@ -809,6 +885,10 @@
     ]]></description>
     <req_capabilities>btsdk hellos</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -852,6 +932,10 @@
     <req_capabilities>btsdk hellos20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
@@ -877,6 +961,10 @@
     ]]></description>
     <req_capabilities>btsdk helloc20736</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -904,6 +992,10 @@
     <req_capabilities>btsdk ibeacon20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
@@ -929,6 +1021,10 @@
     ]]></description>
     <req_capabilities>btsdk mybeacon20736</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -956,6 +1052,10 @@
     <req_capabilities>btsdk btsdk_ota_app_20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
@@ -981,6 +1081,10 @@
     ]]></description>
     <req_capabilities>btsdk spimaster20736</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1008,6 +1112,10 @@
     <req_capabilities>btsdk spislave20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
@@ -1033,6 +1141,10 @@
     ]]></description>
     <req_capabilities>btsdk pwm20736</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1060,6 +1172,10 @@
     <req_capabilities>btsdk rtc20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
@@ -1086,6 +1202,10 @@
     <req_capabilities>btsdk glucose20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
@@ -1107,6 +1227,10 @@
     ]]></description>
     <req_capabilities>btsdk heart20736</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1130,6 +1254,10 @@
     <req_capabilities>btsdk proximity20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
@@ -1152,6 +1280,10 @@
     <req_capabilities>btsdk proximityclient20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
@@ -1165,7 +1297,7 @@
     <name>HAL ADC</name>
     <id>mtb-example-btsdk-hal-adc</id>
     <category>Peripherals</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-adc</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-adc</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates how to configure and use ADC in AIROC&#8482; Evaluation boards to measure DC voltage on various DC input channels. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-adc">link</a>.</body>
@@ -1173,6 +1305,10 @@
     ]]></description>
     <req_capabilities>btsdk adc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1207,7 +1343,7 @@
     <name>HAL GPIO</name>
     <id>mtb-example-btsdk-hal-gpio</id>
     <category>Peripherals</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-gpio</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-gpio</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates how to use AIROC&#8482; GPIO APIs to configure GPIO to be an input or output pin. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-gpio">link</a>.</body>
@@ -1215,6 +1351,10 @@
     ]]></description>
     <req_capabilities>btsdk gpio</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1249,7 +1389,7 @@
     <name>HAL I2C Master</name>
     <id>mtb-example-btsdk-hal-i2c-master</id>
     <category>Peripherals</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-i2c-master</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-i2c-master</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates how to use I2C driver interface to send and receive bytes or a stream of bytes over the I2C hardware as a master. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-i2c-master">link</a>.</body>
@@ -1257,6 +1397,10 @@
     ]]></description>
     <req_capabilities>btsdk i2c_master</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1291,7 +1435,7 @@
     <name>HAL Low Power</name>
     <id>mtb-example-btsdk-hal-low-power</id>
     <category>Peripherals</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-low-power</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-low-power</uri>
     <description><![CDATA[
 <html>
 <body> This example demonstrates low power modes on CYW20819, CYW20820, and CYW89820 chips. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-low-power">link</a>.</body>
@@ -1299,6 +1443,10 @@
     ]]></description>
     <req_capabilities>btsdk lowpower</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1333,7 +1481,7 @@
     <name>HAL PUART</name>
     <id>mtb-example-btsdk-hal-puart</id>
     <category>Peripherals</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-puart</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-puart</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates how to use PUART APIs to read data from the terminal as well as display data on terminal. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-puart">link</a>.</body>
@@ -1341,6 +1489,10 @@
     ]]></description>
     <req_capabilities>btsdk puart</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1375,7 +1527,7 @@
     <name>HAL PWM</name>
     <id>mtb-example-btsdk-hal-pwm</id>
     <category>Peripherals</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-pwm</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-pwm</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates how to configure and use
@@ -1385,6 +1537,10 @@
     ]]></description>
     <req_capabilities>btsdk pwm</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1419,7 +1575,7 @@
     <name>HAL UART Raw Mode</name>
     <id>mtb-example-btsdk-hal-uart-raw-mode</id>
     <category>Peripherals</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-uart-raw-mode</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-uart-raw-mode</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates HCI UART interface configured for the Raw Data Mode. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-uart-raw-mode">link</a>.</body>
@@ -1427,6 +1583,10 @@
     ]]></description>
     <req_capabilities>btsdk uart_raw</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1461,7 +1621,7 @@
     <name>HAL UART SPI bridge</name>
     <id>mtb-example-btsdk-hal-uart-spi-bridge</id>
     <category>Peripherals</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-uart-spi-bridge</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hal-uart-spi-bridge</uri>
     <description><![CDATA[
 <html>
 <body> This application implements the SPI Master and acts as a UART-SPI Bridge. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-uart-spi-bridge">link</a>.</body>
@@ -1469,6 +1629,10 @@
     ]]></description>
     <req_capabilities>btsdk uart_spi</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1503,7 +1667,7 @@
     <name>HID LE Mouse</name>
     <id>mtb-example-btsdk-hid-ble-mouse</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hid-ble-mouse</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-mouse</uri>
     <description><![CDATA[
 <html>
 <body> This is a LE Mouse reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ble-mouse">link</a>.</body>
@@ -1511,6 +1675,10 @@
     ]]></description>
     <req_capabilities>btsdk ble_mouse</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1545,7 +1713,7 @@
     <name>HID LE Remote Control</name>
     <id>mtb-example-btsdk-hid-ble-rcu</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hid-ble-rcu</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-rcu</uri>
     <description><![CDATA[
 <html>
 <body> This is a LE Remote reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ble-rcu">link</a>.</body>
@@ -1553,6 +1721,10 @@
     ]]></description>
     <req_capabilities>btsdk ble_rcu</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1587,7 +1759,7 @@
     <name>HID LE Remote</name>
     <id>mtb-example-btsdk-hid-ble-remote</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hid-ble-remote</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-ble-remote</uri>
     <description><![CDATA[
 <html>
 <body> This is a LE Remote reference application based on HID over GATT Profile (HOGP). For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ble-remote">link</a>.</body>
@@ -1595,6 +1767,10 @@
     ]]></description>
     <req_capabilities>btsdk ble_remote</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1629,7 +1805,7 @@
     <name>HID Dual Mode Keyboard</name>
     <id>mtb-example-btsdk-hid-dual-mode-keyboard</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hid-dual-mode-keyboard</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hid-dual-mode-keyboard</uri>
     <description><![CDATA[
 <html>
 <body> This is a BR-EDR and LE keyboard reference application. It is based on HID over GATT Profile (HOGP) for LE keyboard and HID Device profile for BR-EDR keyboard For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-dual-mode-keyboard">link</a>.</body>
@@ -1637,6 +1813,10 @@
     ]]></description>
     <req_capabilities>btsdk keyboard</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1671,7 +1851,7 @@
     <name>Mesh Demo Colored Light</name>
     <id>mtb-example-btsdk-mesh-demo-color-light</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-color-light</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-color-light</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates a colored light. It implements the Light HSL (Hue, Saturation, and Lightness) Server model. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-color-light">link</a>.</body>
@@ -1679,6 +1859,10 @@
     ]]></description>
     <req_capabilities>btsdk color_light</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1713,7 +1897,7 @@
     <name>Mesh Demo Dimmer</name>
     <id>mtb-example-btsdk-mesh-demo-dimmer</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-dimmer</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-dimmer</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates a dimmer. It implements the Level Client model. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-dimmer">link</a>.</body>
@@ -1721,6 +1905,10 @@
     ]]></description>
     <req_capabilities>btsdk dimmer</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1755,7 +1943,7 @@
     <name>Mesh Demo Dimmer Self Config</name>
     <id>mtb-example-btsdk-mesh-demo-dimmer-self-config</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-dimmer-self-config</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-dimmer-self-config</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates a dimmer with a self-configuration feature. This feature allows fast configuration of the device. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-dimmer-self-config">link</a>.</body>
@@ -1763,6 +1951,10 @@
     ]]></description>
     <req_capabilities>btsdk dimmer_self_config</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1797,7 +1989,7 @@
     <name>Mesh Demo Embedded Provisioner</name>
     <id>mtb-example-btsdk-mesh-demo-embedded-provisioner</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-embedded-provisioner</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-embedded-provisioner</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a self-organized mesh network where one device is an embedded provisioner, and it searches for all unprovisioned devices and adds them to the network. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-embedded-provisioner">link</a>.</body>
@@ -1805,6 +1997,10 @@
     ]]></description>
     <req_capabilities>btsdk embedded_provisioner</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1839,7 +2035,7 @@
     <name>Mesh Demo Dimmable Light</name>
     <id>mtb-example-btsdk-mesh-demo-light-dimmable</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-light-dimmable</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-light-dimmable</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a dimmable light. It is based on the Mesh Light Lightness Server model.  For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-light-dimmable">link</a>.</body>
@@ -1847,6 +2043,10 @@
     ]]></description>
     <req_capabilities>btsdk light_dimmable</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1881,7 +2081,7 @@
     <name>Mesh Demo Smart Light</name>
     <id>mtb-example-btsdk-mesh-demo-light-smart</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-light-smart</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-light-smart</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a light controller. It is based on the Mesh Light LC (Lightness Control) Server model. It can be controlled by the occupancy sensor or Light LC On/Off messages. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-light-smart">link</a>.</body>
@@ -1889,6 +2089,10 @@
     ]]></description>
     <req_capabilities>btsdk light_smart</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1923,7 +2127,7 @@
     <name>Mesh Demo Low-Power LED</name>
     <id>mtb-example-btsdk-mesh-demo-low-power-led</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-low-power-led</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-low-power-led</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a low- power LED system. It is based on the Mesh Power Onoff Server model. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-low-power-led">link</a>.</body>
@@ -1931,6 +2135,10 @@
     ]]></description>
     <req_capabilities>btsdk low_power_led</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1965,7 +2173,7 @@
     <name>Mesh Demo On-Off Switch</name>
     <id>mtb-example-btsdk-mesh-demo-on-off-switch</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-on-off-switch</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-on-off-switch</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of an On-Off Switch. It is based on the Mesh Generic OnOff Client model. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-on-off-switch">link</a>.</body>
@@ -1973,6 +2181,10 @@
     ]]></description>
     <req_capabilities>btsdk on_off_switch</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2007,7 +2219,7 @@
     <name>Mesh Demo Motion Sensor</name>
     <id>mtb-example-btsdk-mesh-demo-sensor-motion</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-sensor-motion</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-sensor-motion</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a motion sensor. It is based on Mesh Sensor Server model. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-sensor-motion">link</a>.</body>
@@ -2015,6 +2227,10 @@
     ]]></description>
     <req_capabilities>btsdk sensor_motion</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2049,7 +2265,7 @@
     <name>Mesh Demo Temperature Sensor</name>
     <id>mtb-example-btsdk-mesh-demo-sensor-temperature</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-sensor-temperature</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-sensor-temperature</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a temperature sensor. It based on the Mesh Sensor Server model. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-sensor-temperature">link</a>.</body>
@@ -2057,6 +2273,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_sensor_temperature</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2091,7 +2311,7 @@
     <name>Mesh Demo Smart Switch</name>
     <id>mtb-example-btsdk-mesh-demo-switch-smart</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-demo-switch-smart</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-demo-switch-smart</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a motion sensor combined with an on-off button. It is based on the Mesh Sensor Server and Generic OnOff Server models. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-switch-smart">link</a>.</body>
@@ -2099,6 +2319,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_switch_smart</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2133,7 +2357,7 @@
     <name>Mesh Snip Battery Client</name>
     <id>mtb-example-btsdk-mesh-snip-battery-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-battery-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-battery-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-battery-client">link</a>.</body>
@@ -2141,6 +2365,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2175,7 +2403,7 @@
     <name>Mesh Snip Battery Server</name>
     <id>mtb-example-btsdk-mesh-snip-battery-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-battery-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-battery-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-battery-server">link</a>.</body>
@@ -2183,6 +2411,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2217,7 +2449,7 @@
     <name>Mesh Snip Default Transition Time Client</name>
     <id>mtb-example-btsdk-mesh-snip-default-transition-time-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-default-transition-time-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-default-transition-time-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-default-transition-time-client">link</a>.</body>
@@ -2225,6 +2457,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2259,7 +2495,7 @@
     <name>Mesh Snip Gateway Proxy</name>
     <id>mtb-example-btsdk-mesh-snip-gateway-proxy</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-gateway-proxy</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-gateway-proxy</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-gateway-proxy">link</a>.</body>
@@ -2267,6 +2503,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2301,7 +2541,7 @@
     <name>Mesh Snip Level Client</name>
     <id>mtb-example-btsdk-mesh-snip-level-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-level-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-level-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-level-client">link</a>.</body>
@@ -2309,6 +2549,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2343,7 +2587,7 @@
     <name>Mesh Snip Level Server</name>
     <id>mtb-example-btsdk-mesh-snip-level-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-level-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-level-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-level-server">link</a>.</body>
@@ -2351,6 +2595,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2385,7 +2633,7 @@
     <name>Mesh Snip Light CTL Client</name>
     <id>mtb-example-btsdk-mesh-snip-light-ctl-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-ctl-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-ctl-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-ctl-client">link</a>.</body>
@@ -2393,6 +2641,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2427,7 +2679,7 @@
     <name>Mesh Snip Light CTL Server</name>
     <id>mtb-example-btsdk-mesh-snip-light-ctl-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-ctl-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-ctl-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-ctl-server">link</a>.</body>
@@ -2435,6 +2687,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2469,7 +2725,7 @@
     <name>Mesh Snip Light HSL Client</name>
     <id>mtb-example-btsdk-mesh-snip-light-hsl-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-hsl-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-hsl-client">link</a>.</body>
@@ -2477,6 +2733,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2511,7 +2771,7 @@
     <name>Mesh Snip Light HSL CTL Server</name>
     <id>mtb-example-btsdk-mesh-snip-light-hsl-ctl-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-hsl-ctl-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-ctl-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-hsl-ctl-server">link</a>.</body>
@@ -2519,6 +2779,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2553,7 +2817,7 @@
     <name>Mesh Snip Light HSL CTL XYL Server</name>
     <id>mtb-example-btsdk-mesh-snip-light-hsl-ctl-xyl-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-hsl-ctl-xyl-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-ctl-xyl-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-hsl-ctl-xyl-server">link</a>.</body>
@@ -2561,6 +2825,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2595,7 +2863,7 @@
     <name>Mesh Snip Light HSL Server</name>
     <id>mtb-example-btsdk-mesh-snip-light-hsl-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-hsl-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-hsl-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-hsl-server">link</a>.</body>
@@ -2603,6 +2871,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2637,7 +2909,7 @@
     <name>Mesh Snip Light LC Client</name>
     <id>mtb-example-btsdk-mesh-snip-light-lc-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-lc-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lc-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-lc-client">link</a>.</body>
@@ -2645,6 +2917,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2679,7 +2955,7 @@
     <name>Mesh Snip Light LC Server</name>
     <id>mtb-example-btsdk-mesh-snip-light-lc-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-lc-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lc-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-lc-server">link</a>.</body>
@@ -2687,6 +2963,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2721,7 +3001,7 @@
     <name>Mesh Snip Light Lightness Client</name>
     <id>mtb-example-btsdk-mesh-snip-light-lightness-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-lightness-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lightness-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-lightness-client">link</a>.</body>
@@ -2729,6 +3009,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2763,7 +3047,7 @@
     <name>Mesh Snip Light Lightness Server</name>
     <id>mtb-example-btsdk-mesh-snip-light-lightness-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-lightness-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-lightness-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-lightness-server">link</a>.</body>
@@ -2771,6 +3055,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2805,7 +3093,7 @@
     <name>Mesh Snip Light XYL Client</name>
     <id>mtb-example-btsdk-mesh-snip-light-xyl-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-xyl-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-xyl-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-xyl-client">link</a>.</body>
@@ -2813,6 +3101,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2847,7 +3139,7 @@
     <name>Mesh Snip Light XYL Server</name>
     <id>mtb-example-btsdk-mesh-snip-light-xyl-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-xyl-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-light-xyl-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-light-xyl-server">link</a>.</body>
@@ -2855,6 +3147,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2889,7 +3185,7 @@
     <name>Mesh Snip Location Client</name>
     <id>mtb-example-btsdk-mesh-snip-location-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-location-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-location-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-location-client">link</a>.</body>
@@ -2897,6 +3193,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2931,7 +3231,7 @@
     <name>Mesh Snip Location Server</name>
     <id>mtb-example-btsdk-mesh-snip-location-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-location-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-location-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-location-server">link</a>.</body>
@@ -2939,6 +3239,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -2973,7 +3277,7 @@
     <name>Mesh Snip On-Off Client</name>
     <id>mtb-example-btsdk-mesh-snip-onoff-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-onoff-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-onoff-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-onoff-client">link</a>.</body>
@@ -2981,6 +3285,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3015,7 +3323,7 @@
     <name>Mesh Snip On-Off Server</name>
     <id>mtb-example-btsdk-mesh-snip-onoff-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-onoff-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-onoff-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-onoff-server">link</a>.</body>
@@ -3023,6 +3331,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3057,7 +3369,7 @@
     <name>Mesh Snip Performance Testing</name>
     <id>mtb-example-btsdk-mesh-snip-perf-testing</id>
     <category>Manufacturing</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-perf-testing</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-perf-testing</uri>
     <description><![CDATA[
 <html>
 <body> This application can be used to test mesh performance. It uses a customized version of the Mesh Snip Vendor Specific app available in BTSDK. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-perf-testing">link</a>.</body>
@@ -3065,6 +3377,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3099,7 +3415,7 @@
     <name>Mesh Snip Power Level Client</name>
     <id>mtb-example-btsdk-mesh-snip-power-level-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-power-level-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-level-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-power-level-client">link</a>.</body>
@@ -3107,6 +3423,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3141,7 +3461,7 @@
     <name>Mesh Snip Power Level Server</name>
     <id>mtb-example-btsdk-mesh-snip-power-level-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-power-level-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-level-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-power-level-server">link</a>.</body>
@@ -3149,6 +3469,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3183,7 +3507,7 @@
     <name>Mesh Snip Power On-Off Client</name>
     <id>mtb-example-btsdk-mesh-snip-power-onoff-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-power-onoff-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-onoff-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-power-onoff-client">link</a>.</body>
@@ -3191,6 +3515,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3225,7 +3553,7 @@
     <name>Mesh Snip Power On-Off Server</name>
     <id>mtb-example-btsdk-mesh-snip-power-onoff-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-power-onoff-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-power-onoff-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-power-onoff-server">link</a>.</body>
@@ -3233,6 +3561,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3267,7 +3599,7 @@
     <name>Mesh Snip Property Client</name>
     <id>mtb-example-btsdk-mesh-snip-property-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-property-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-property-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-property-client">link</a>.</body>
@@ -3275,6 +3607,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3309,7 +3645,7 @@
     <name>Mesh Snip Property Server</name>
     <id>mtb-example-btsdk-mesh-snip-property-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-property-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-property-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-property-server">link</a>.</body>
@@ -3317,6 +3653,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3351,7 +3691,7 @@
     <name>Mesh Snip Provision Client</name>
     <id>mtb-example-btsdk-mesh-snip-provision-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-provision-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-provision-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-provision-client">link</a>.</body>
@@ -3359,6 +3699,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3393,7 +3737,7 @@
     <name>Mesh Snip Provision Server</name>
     <id>mtb-example-btsdk-mesh-snip-provision-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-provision-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-provision-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-provision-server">link</a>.</body>
@@ -3401,6 +3745,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3435,7 +3783,7 @@
     <name>Mesh Snip Scene Client</name>
     <id>mtb-example-btsdk-mesh-snip-scene-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-scene-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-scene-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-scene-client">link</a>.</body>
@@ -3443,6 +3791,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3477,7 +3829,7 @@
     <name>Mesh Snip Scheduler Client</name>
     <id>mtb-example-btsdk-mesh-snip-scheduler-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-scheduler-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-scheduler-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-scheduler-client">link</a>.</body>
@@ -3485,6 +3837,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3519,7 +3875,7 @@
     <name>Mesh Snip Sensor Client</name>
     <id>mtb-example-btsdk-mesh-snip-sensor-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-sensor-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-sensor-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-sensor-client">link</a>.</body>
@@ -3527,6 +3883,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3561,7 +3921,7 @@
     <name>Mesh Snip Sensor Server</name>
     <id>mtb-example-btsdk-mesh-snip-sensor-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-sensor-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-sensor-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-sensor-server">link</a>.</body>
@@ -3569,6 +3929,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3603,7 +3967,7 @@
     <name>Mesh Snip Time Client</name>
     <id>mtb-example-btsdk-mesh-snip-time-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-time-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-time-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-time-client">link</a>.</body>
@@ -3611,6 +3975,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3645,7 +4013,7 @@
     <name>Mesh Snip Time Server</name>
     <id>mtb-example-btsdk-mesh-snip-time-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-time-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-time-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-time-server">link</a>.</body>
@@ -3653,6 +4021,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3687,7 +4059,7 @@
     <name>Mesh Snip Vendor Specific</name>
     <id>mtb-example-btsdk-mesh-snip-vendor-specific</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-mesh-snip-vendor-specific</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-mesh-snip-vendor-specific</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a SIG LE mesh model as indicated by the name of the application. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-snip-vendor-specific">link</a>.</body>
@@ -3695,6 +4067,10 @@
     ]]></description>
     <req_capabilities>btsdk mesh_snip</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3729,7 +4105,7 @@
     <name>Firmware Upgrade via HCI</name>
     <id>mtb-example-btsdk-hci-firmware-upgrade</id>
     <category>Manufacturing</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-hci-firmware-upgrade</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-hci-firmware-upgrade</uri>
     <description><![CDATA[
 <html>
 <body> This is a snippet application to demonstrate the use of HCI (MCU) firmware upgrade APIs and library. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hci-firmware-upgrade">link</a>.</body>
@@ -3737,6 +4113,10 @@
     ]]></description>
     <req_capabilities>btsdk btsdk_hci_app</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3767,7 +4147,7 @@
     <name>Firmware Upgrade via OTA</name>
     <id>mtb-example-btsdk-ota-firmware-upgrade</id>
     <category>Manufacturing</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-ota-firmware-upgrade</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-ota-firmware-upgrade</uri>
     <description><![CDATA[
 <html>
 <body> This is a snippet application to demonstrate the use of Over-The-Air (OTA) firmware upgrade APIs and library. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-ota-firmware-upgrade">link</a>.</body>
@@ -3775,6 +4155,10 @@
     ]]></description>
     <req_capabilities>btsdk btsdk_ota_app</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3809,7 +4193,7 @@
     <name>RFCOMM MAP Client</name>
     <id>mtb-example-btsdk-rfcomm-map-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-rfcomm-map-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-rfcomm-map-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of RFCOMM based Message Access Client Profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-rfcomm-map-client">link</a>.</body>
@@ -3817,6 +4201,10 @@
     ]]></description>
     <req_capabilities>btsdk mapc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3851,7 +4239,7 @@
     <name>RFCOMM OPP Server</name>
     <id>mtb-example-btsdk-rfcomm-opp-server</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-rfcomm-opp-server</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-rfcomm-opp-server</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of RFCOMM based Object Push Server Profile. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-rfcomm-opp-server">link</a>.</body>
@@ -3859,6 +4247,10 @@
     ]]></description>
     <req_capabilities>btsdk opps</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3893,7 +4285,7 @@
     <name>RFCOMM PBAP Client</name>
     <id>mtb-example-btsdk-rfcomm-pbap-client</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-rfcomm-pbap-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-rfcomm-pbap-client</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of RFCOMM based Phone Book Access Client Profile (PBAP). For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-rfcomm-pbap-client">link</a>.</body>
@@ -3901,6 +4293,10 @@
     ]]></description>
     <req_capabilities>btsdk pbc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3935,7 +4331,7 @@
     <name>RFCOMM Serial Port</name>
     <id>mtb-example-btsdk-rfcomm-spp</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-rfcomm-spp</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-rfcomm-spp</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a RFCOMM based Serial Port Profile (SPP). For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-rfcomm-spp">link</a>.</body>
@@ -3943,6 +4339,10 @@
     ]]></description>
     <req_capabilities>btsdk spp</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -3977,7 +4377,7 @@
     <name>RFCOMM Serial Port Multi-Port</name>
     <id>mtb-example-btsdk-rfcomm-spp-multi-port</id>
     <category>Bluetooth&#174;</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-rfcomm-spp-multi-port</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-rfcomm-spp-multi-port</uri>
     <description><![CDATA[
 <html>
 <body> This application demonstrates the implementation of a RFCOMM based Serial Port Profile (SPP) that can support up to two SPP connections, and interfaces to an external host using AIROC&#8482; HCI. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-rfcomm-spp-multi-port">link</a>.</body>
@@ -3985,6 +4385,10 @@
     ]]></description>
     <req_capabilities>btsdk spp_multi_port</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -4019,7 +4423,7 @@
     <name>Test HCI Loopback</name>
     <id>mtb-example-btsdk-loop-back</id>
     <category>Manufacturing</category>
-    <uri>https://github.com/Infineon/mtb-example-btsdk-loop-back</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-btsdk-loop-back</uri>
     <description><![CDATA[
 <html>
 <body> This application provides a loopback test for the HCI UART when used with ClientControl running on a PC host, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-loop-back">link</a>.</body>
@@ -4027,6 +4431,10 @@
     ]]></description>
     <req_capabilities>btsdk hci_loopback</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
