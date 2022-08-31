@@ -614,55 +614,6 @@
     <req_capabilities>ble CYBT_343026_EVAL</req_capabilities>
   </app>
   <app>
-    <name>BLE-CYW920735Q60EVB01</name>
-    <id>ble_BLE-CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-ble</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates LE protocols and functionality.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>beacon</u>: Implementation of Google Eddystone and Apple iBeacons</li>
-    <li><u>hello_sensor</u> and <u>hello_client</u>: LE Vendor Specific Service and Client</li>
-    <li><u>ans</u> and <u>anc</u>: LE Alert Notification Service and Client</li>
-    <li><u>bas</u> and <u>bac</u>: LE Battery Service and Client</li>
-    <li><u>hrs</u> and <u>hrc</u>: LE Heart Rate Monitor Service and Client</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>ble CYW920735Q60EVB_01</req_capabilities>
-  </app>
-  <app>
     <name>BLE-CYW9M2BASE43012BT</name>
     <id>ble_BLE-CYW9M2BASE_43012BT</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-ble</uri>
@@ -1540,53 +1491,6 @@
     <req_capabilities>mesh CYW920706WCDEVAL</req_capabilities>
   </app>
   <app>
-    <name>Mesh-Demo-CYW920735Q60EVB01</name>
-    <id>mesh_demo_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-demo</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates implementation of LE Mesh Models.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>dimmer</u>: Implementation of a simple dimmer based on Level Client model.</li>
-    <li><u>light_dimmable</u>: Implementation of a dimmable light based on the LE Mesh Light Lightness Server model.</li>
-    <li><u>on_off_switch</u>: Implementation of a On Off Switch.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>mesh CYW920735Q60EVB_01</req_capabilities>
-  </app>
-  <app>
     <name>Mesh-Snip-20706WCDEVAL</name>
     <id>mesh_snip_CYW920706WCDEVAL</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920706WCDEVAL-btsdk-mesh-snip</uri>
@@ -1716,47 +1620,6 @@
 </html>
     ]]></description>
     <req_capabilities>mesh CYBT_343026_EVAL</req_capabilities>
-  </app>
-  <app>
-    <name>Mesh-Snip-CYW920735Q60EVB01</name>
-    <id>mesh_snip_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-mesh-snip</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of SIG LE Mesh models as indicated by the name of each application in the group.</p>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>mesh CYW920735Q60EVB_01</req_capabilities>
   </app>
   <app>
     <name>Audio-20719B2EVB01</name>
@@ -2550,51 +2413,6 @@
     <req_capabilities>br_edr CYBT_343026_EVAL</req_capabilities>
   </app>
   <app>
-    <name>RFCOMM-CYW920735Q60EVB01</name>
-    <id>rfcomm_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-rfcomm</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates use of Bluetooth&#174; RFCOMM profiles.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>spp</u>: Sample app demonstrating Serial Port Profile.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>br_edr CYW920735Q60EVB_01</req_capabilities>
-  </app>
-  <app>
     <name>RFCOMM-CYW9M2BASE43012BT</name>
     <id>rfcomm_CYW9M2BASE_43012BT</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW9M2BASE-43012BT-btsdk-rfcomm</uri>
@@ -2794,53 +2612,6 @@
 </html>
     ]]></description>
     <req_capabilities>hid CYW920819REF_KB_01</req_capabilities>
-  </app>
-  <app>
-    <name>HID-CYW920735Q60EVB01</name>
-    <id>hid_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-hid</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Human Interface Devices.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>dual_mode_keyboard</u>: Dual mode keyboard supports BR-EDR HID profile and LE HIDD Over GATT profile.</li>
-    <li><u>ble_mouse</u>: LE Mouse application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
-    <li><u>ble_remote</u>: LE Remote Control application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>hid CYW920735Q60EVB_01</req_capabilities>
   </app>
   <app>
     <name>HID-CYW920835REFRCU</name>
@@ -3281,51 +3052,6 @@
     <req_capabilities>ota CYBT_343026_EVAL</req_capabilities>
   </app>
   <app>
-    <name>OTA-CYW920735Q60EVB01</name>
-    <id>ota_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-ota</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Over-the-Air firmware updates.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>ota_firmware_upgrade</u>: App that demonstrates LE based OTA Firmware Upgrade functionality.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>ota CYW920735Q60EVB_01</req_capabilities>
-  </app>
-  <app>
     <name>HAL-20719B2EVB01</name>
     <id>hal_CYW920719B2Q40EVB_01</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-hal</uri>
@@ -3719,55 +3445,6 @@
 </html>
     ]]></description>
     <req_capabilities>hal CYW920706WCDEVAL</req_capabilities>
-  </app>
-  <app>
-    <name>HAL-CYW920735Q60EVB01</name>
-    <id>hal_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-hal</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates HAL.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>gpio</u>: App demonstrates use of AIROC&#8482; GPIO apis to configure GPIOs as input/output.</li>
-    <li><u>puart</u>: App demonstrates how to use PUART API's to read data over the "WICED Peripheral UART" serial port.</li>
-    <li><u>pwm</u>: App demonstrates how to configure and use PWM in AIROC&#8482; Eval boards.</li>
-    <li><u>adc</u>: App demonstrates how to configure and use ADC to measure DC voltage on DC input channels.</li>
-    <li><u>i2c_master</u>: App demonstrates how to use I2C interface to send and receive data.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>hal CYW920735Q60EVB_01</req_capabilities>
   </app>
   <app>
     <name>HAL-CYBT-343026</name>
@@ -4304,46 +3981,6 @@
 </html>
     ]]></description>
     <req_capabilities>ble CYBT_343026_EVAL</req_capabilities>
-  </app>
-  <app>
-    <name>Empty-CYW920735Q60EVB01</name>
-    <id>empty_CYW920735Q60EVB_01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920735Q60EVB-01-btsdk-empty</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the Bluetooth&#174; stack.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>ble CYW920735Q60EVB_01</req_capabilities>
   </app>
   <app>
     <name>Empty-CYW9M2BASE43012BT</name>
