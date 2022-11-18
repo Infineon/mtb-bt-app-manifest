@@ -1516,6 +1516,10 @@
     <req_capabilities>btsdk lowpower</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.1.1 release</num>
+        <commit>release-v4.1.1</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.1.0 release</num>
         <commit>release-v4.1.0</commit>
       </version>
