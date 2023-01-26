@@ -2455,61 +2455,6 @@
     <req_capabilities>br_edr CYW9M2BASE_43012BT</req_capabilities>
   </app>
   <app>
-    <name>HID-20819EVB02</name>
-    <id>hid_CYW920819EVB_02</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819EVB-02-btsdk-hid</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Human Interface Devices.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>dual_mode_keyboard</u>: Dual mode keyboard supports BR-EDR HID profile and LE HIDD Over GATT profile.</li>
-    <li><u>ble_mouse</u>: LE Mouse application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
-    <li><u>ble_remote</u>: LE Remote Control application is a single chip SoC solution based on HID over GATT Profile (HOGP).</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>hid CYW920819EVB_02</req_capabilities>
-  </app>
-  <app>
     <name>HID-20820EVB02</name>
     <id>hid_CYW920820EVB_02</id>
     <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920820EVB-02-btsdk-hid</uri>
@@ -2563,55 +2508,6 @@
 </html>
     ]]></description>
     <req_capabilities>hid CYW920820EVB_02</req_capabilities>
-  </app>
-  <app>
-    <name>HID-20819REF-KB</name>
-    <id>hid_CYW920819REF-KB-01</id>
-    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920819REF-KB-01-btsdk-hid</uri>
-    <versions>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version flow_version="1.0" tools_max_version="2.1.0">
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-    </versions>
-    <description><![CDATA[
-<html>
-<body>
-  <h3>Note: create wiced_btsdk application first (just once) before creating any other apps.</h3>
-  <p>This application group demonstrates Human Interface Devices.</p>
-  <h4>Applications included:</h4>
-  <ul>
-    <li><u>dual_mode_keyboard</u>: Turnkey Keyboard solution that supports BR-EDR HID profile and LE HIDD Over GATT profile, and using on-chip keyscan HW component.</li>
-  </ul>
-  <p>Each app directory has a readme.txt file which provides details of the application and usage.</p>
-</body>
-</html>
-    ]]></description>
-    <req_capabilities>hid CYW920819REF_KB_01</req_capabilities>
   </app>
   <app>
     <name>HID-CYW920835REFRCU</name>
