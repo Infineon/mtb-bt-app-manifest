@@ -12,6 +12,10 @@
     <req_capabilities>btsdk ble btsdk_empty_app</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.1.0 release</num>
         <commit>release-v4.1.0</commit>
       </version>
@@ -120,6 +124,10 @@
     <req_capabilities>btsdk avsink</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -142,6 +150,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -166,6 +178,10 @@
     <req_capabilities>btsdk audio_gateway</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -188,6 +204,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -212,6 +232,10 @@
     <req_capabilities>btsdk handsfree</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -234,6 +258,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -258,6 +286,10 @@
     <req_capabilities>btsdk headset</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -280,6 +312,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -304,6 +340,10 @@
     <req_capabilities>btsdk hs_speaker</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -326,6 +366,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -350,6 +394,10 @@
     <req_capabilities>btsdk audio_record</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -374,6 +422,10 @@
         <commit>release-v2.8.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -395,6 +447,10 @@
     ]]></description>
     <req_capabilities>btsdk watch</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.1.3 release</num>
         <commit>release-v4.1.3</commit>
@@ -774,6 +830,10 @@
     <req_capabilities>btsdk findme</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
       </version>
@@ -1044,6 +1104,10 @@
     <req_capabilities>btsdk hellos20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -1054,6 +1118,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -1134,6 +1202,10 @@
     <req_capabilities>btsdk mybeacon20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -1144,6 +1216,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -1164,6 +1240,10 @@
     <req_capabilities>btsdk btsdk_ota_app_20736</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -1174,6 +1254,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -1584,6 +1668,10 @@
     <req_capabilities>btsdk lowpower</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.1.1 release</num>
         <commit>release-v4.1.1</commit>
       </version>
@@ -1832,6 +1920,10 @@
     <req_capabilities>btsdk uart_spi</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -1854,6 +1946,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -1970,6 +2066,10 @@
     <req_capabilities>btsdk ble_remote</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -1992,6 +2092,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -2128,6 +2232,10 @@
     <req_capabilities>btsdk dimmer_self_config</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
       </version>
@@ -2181,6 +2289,10 @@
     ]]></description>
     <req_capabilities>btsdk embedded_provisioner</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
@@ -4678,6 +4790,10 @@
     ]]></description>
     <req_capabilities>btsdk btsdk_hci_app</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.1.0 release</num>
         <commit>release-v4.1.0</commit>
