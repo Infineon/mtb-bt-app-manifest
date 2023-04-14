@@ -1655,6 +1655,28 @@
       </version>
     </versions>
   </app>
+  <app keywords="btsdk,I2C">
+    <name>HAL I2C Slave</name>
+    <id>mtb-example-btsdk-hal-i2c-slave</id>
+    <category>Peripherals</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-hal-i2c-slave</uri>
+    <description><![CDATA[
+<html>
+<body> This application demonstrates how to use I2C driver interface to send and receive bytes or a stream of bytes over the I2C hardware as a slave. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hal-i2c-slave">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk i2c_slave</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.2.1 release</num>
+        <commit>release-v4.2.1</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+  </app>
   <app keywords="btsdk,low,power">
     <name>HAL Low Power</name>
     <id>mtb-example-btsdk-hal-low-power</id>
