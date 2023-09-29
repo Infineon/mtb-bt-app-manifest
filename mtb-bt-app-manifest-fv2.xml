@@ -73,43 +73,43 @@
     ]]></description>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.1.0 release</num>
         <commit>release-v4.1.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.0.0 release</num>
         <commit>release-v3.0.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v2.X release</num>
         <commit>latest-v2.X</commit>
       </version>
@@ -622,6 +622,10 @@
     <req_capabilities>btsdk batc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.4.2 release</num>
+        <commit>release-v4.4.2</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.1.2 release</num>
         <commit>release-v4.1.2</commit>
       </version>
@@ -1011,6 +1015,10 @@
     ]]></description>
     <req_capabilities>btsdk helloc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.4.2 release</num>
+        <commit>release-v4.4.2</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.3.0 release</num>
         <commit>release-v4.3.0</commit>
@@ -2020,6 +2028,10 @@
     <req_capabilities>btsdk ble_mouse</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.4.2 release</num>
+        <commit>release-v4.4.2</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.4.0 release</num>
         <commit>release-v4.4.0</commit>
       </version>
@@ -2074,6 +2086,10 @@
     <req_capabilities>btsdk ble_rcu</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.4.2 release</num>
+        <commit>release-v4.4.2</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.4.0 release</num>
         <commit>release-v4.4.0</commit>
       </version>
@@ -2127,6 +2143,10 @@
     ]]></description>
     <req_capabilities>btsdk ble_remote</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.4.2 release</num>
+        <commit>release-v4.4.2</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.4.0 release</num>
         <commit>release-v4.4.0</commit>
@@ -5018,6 +5038,10 @@
     <req_capabilities>btsdk pbc</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.4.2 release</num>
+        <commit>release-v4.4.2</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -5040,6 +5064,10 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
@@ -5202,6 +5230,50 @@
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,hid,ifxv,host">
+    <name>HID IFX-Voice Host</name>
+    <id>mtb-example-btsdk-hid-ifxv-host</id>
+    <category>Bluetooth&#174;</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-host</uri>
+    <description><![CDATA[
+<html>
+<body> The IFX-Voice LE Host application is used to support the IFX-Voice LE Remote Control sample application to demonstrate audio capabilities using Infineon Voice over GATT Profile (VoGP) protocol. The Client Control host PC application is used to control the application and audio playback. see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-host">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk ifxvh</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.4.2 release</num>
+        <commit>release-v4.4.2</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,hid,ifxv,remote">
+    <name>HID IFX-Voice Remote Control</name>
+    <id>mtb-example-btsdk-hid-ifxv-remote</id>
+    <category>Bluetooth&#174;</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-remote</uri>
+    <description><![CDATA[
+<html>
+<body> The IFX-Voice LE Remote Control sample application demonstrates audio capabilities using Infineon Voice over GATT Profile (VoGP) protocol. This application is used together with the IFX-Voice Host application. The Client Control host application is used to navigate the demonstration and audio playback. See the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-remote">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk ifxvr</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.4.2 release</num>
+        <commit>release-v4.4.2</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
     </versions>
   </app>
