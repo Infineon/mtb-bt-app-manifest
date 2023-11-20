@@ -2546,6 +2546,10 @@
     <req_capabilities>btsdk low_power_led</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.5.0 release</num>
+        <commit>release-v4.5.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
       </version>
@@ -5240,11 +5244,17 @@
     <uri>https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-host</uri>
     <description><![CDATA[
 <html>
-<body> The IFX-Voice LE Host application is used to support the IFX-Voice LE Remote Control sample application to demonstrate audio capabilities using Infineon Voice over GATT Profile (VoGP) protocol. The Client Control host PC application is used to control the application and audio playback. see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-host">link</a>.</body>
+<body> The IFX-Voice LE Host application is used to support the IFX-Voice LE Remote Control sample application to demonstrate audio capabilities using Infineon Voice over GATT Profile (VoGP) protocol. The Client Control host PC application is used to control the application and audio playback.
+<br><br> NOTE:  this sample application demonstrates use of a custom GATT service UUID of 0x0000.  This is used for example purposes ONLY, products may not be shipped to market using this sample UUID, a custom 16 bit UUID must be obtained from the Blueooth&#174; SIG.
+<br><br> See the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-host">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk ifxvh</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.5.0 release</num>
+        <commit>release-v4.5.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.4.2 release</num>
         <commit>release-v4.4.2</commit>
@@ -5262,11 +5272,17 @@
     <uri>https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-remote</uri>
     <description><![CDATA[
 <html>
-<body> The IFX-Voice LE Remote Control sample application demonstrates audio capabilities using Infineon Voice over GATT Profile (VoGP) protocol. This application is used together with the IFX-Voice Host application. The Client Control host application is used to navigate the demonstration and audio playback. See the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-remote">link</a>.</body>
+<body> The IFX-Voice LE Remote Control sample application demonstrates audio capabilities using Infineon Voice over GATT Profile (VoGP) protocol. This application is used together with the IFX-Voice Host application. The Client Control host application is used to navigate the demonstration and audio playback.
+<br><br> NOTE:  this sample application demonstrates use of a custom GATT service UUID of 0x0000.  This is used for example purposes ONLY, products may not be shipped to market using this sample UUID, a custom 16 bit UUID must be obtained from the Blueooth&#174; SIG.
+<br><br> See the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-hid-ifxv-remote">link</a>.</body>
 </html>
     ]]></description>
     <req_capabilities>btsdk ifxvr</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.5.0 release</num>
+        <commit>release-v4.5.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.4.2 release</num>
         <commit>release-v4.4.2</commit>
