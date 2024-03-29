@@ -132,6 +132,10 @@
     <req_capabilities>btsdk avsink</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.6.3 release</num>
+        <commit>release-v4.6.3</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.2.0 release</num>
         <commit>release-v4.2.0</commit>
       </version>
@@ -240,6 +244,10 @@
     <req_capabilities>btsdk handsfree</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.6.3 release</num>
+        <commit>release-v4.6.3</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.2.0 release</num>
         <commit>release-v4.2.0</commit>
       </version>
@@ -294,6 +302,10 @@
     <req_capabilities>btsdk headset</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.6.3 release</num>
+        <commit>release-v4.6.3</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.2.0 release</num>
         <commit>release-v4.2.0</commit>
       </version>
@@ -347,6 +359,10 @@
     ]]></description>
     <req_capabilities>btsdk hs_speaker</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.6.3 release</num>
+        <commit>release-v4.6.3</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.2.0 release</num>
         <commit>release-v4.2.0</commit>
@@ -455,6 +471,10 @@
     ]]></description>
     <req_capabilities>btsdk watch</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.6.3 release</num>
+        <commit>release-v4.6.3</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.3.0 release</num>
         <commit>release-v4.3.0</commit>
@@ -757,6 +777,10 @@
     ]]></description>
     <req_capabilities>btsdk beacon</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.6.3 release</num>
+        <commit>release-v4.6.3</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.5.1 release</num>
         <commit>release-v4.5.1</commit>
@@ -1975,6 +1999,10 @@
     ]]></description>
     <req_capabilities>btsdk lowpower20706</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.6.3 release</num>
+        <commit>release-v4.6.3</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.1.3 release</num>
         <commit>release-v4.1.3</commit>
@@ -5141,6 +5169,10 @@
     ]]></description>
     <req_capabilities>btsdk mapc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.6.3 release</num>
+        <commit>release-v4.6.3</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.3.0 release</num>
         <commit>release-v4.3.0</commit>
