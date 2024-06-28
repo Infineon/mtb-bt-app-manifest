@@ -244,6 +244,10 @@
     <req_capabilities>btsdk handsfree</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.6.3 release</num>
         <commit>release-v4.6.3</commit>
       </version>
@@ -301,38 +305,6 @@
     ]]></description>
     <req_capabilities>btsdk headset</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>4.6.3 release</num>
-        <commit>release-v4.6.3</commit>
-      </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>4.2.0 release</num>
-        <commit>release-v4.2.0</commit>
-      </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>3.3.0 release</num>
-        <commit>release-v3.3.0</commit>
-      </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>3.2.0 release</num>
-        <commit>release-v3.2.0</commit>
-      </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>3.1.0 release</num>
-        <commit>release-v3.1.0</commit>
-      </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>3.0.0 release</num>
-        <commit>release-v3.0.0</commit>
-      </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>2.9.0 release</num>
-        <commit>release-v2.9.0</commit>
-      </version>
-      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
-        <num>2.8.0 release</num>
-        <commit>release-v2.8.0</commit>
-      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
@@ -1079,6 +1051,10 @@
     ]]></description>
     <req_capabilities>btsdk helloc</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.5.1 release</num>
         <commit>release-v4.5.1</commit>
@@ -2201,6 +2177,10 @@
     ]]></description>
     <req_capabilities>btsdk uart_spi</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>4.2.0 release</num>
         <commit>release-v4.2.0</commit>
@@ -5544,6 +5524,138 @@
         <commit>release-v4.4.2</commit>
       </version>
       <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,audio,headset,sink,handsfree,A2DP,HF,AVRC,AAC,AMA">
+    <name>Audio Headset and Speaker with AMA</name>
+    <id>mtb-example-btsdk-audio-headset-speaker-ama</id>
+    <category>Bluetooth&#174;</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-headset-speaker-ama</uri>
+    <description><![CDATA[
+<html>
+<body> This is a Headset and Speaker reference application demonstrating Amazon Mobile Accessory (AMA) support. It includes support for Audio Sink, Handsfree, and AVRC profiles. It also includes support for AAC Codec. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-headset-speaker-ama">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk hs_speaker_ama</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,audio,headset,sink,handsfree,A2DP,HF,AVRC,headset">
+    <name>Audio Headset Standalone</name>
+    <id>mtb-example-btsdk-audio-headset-standalone</id>
+    <category>Bluetooth&#174;</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-headset-standalone</uri>
+    <description><![CDATA[
+<html>
+<body> This is a standalone Headset reference application. It includes support for Audio Sink, Handsfree, and AVRC profiles. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-headset-standalone">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk hs_sa</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,audio,headset,sink,handsfree,A2DP,HF,AVRC,AAC,WASS">
+    <name>Wireless Audio Stereo Sync WASS Headset</name>
+    <id>mtb-example-btsdk-audio-headset-wass-aac</id>
+    <category>Bluetooth&#174;</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-headset-wass-aac</uri>
+    <description><![CDATA[
+<html>
+<body> This is a Headset reference application demonstrating Wirelss Audio Stereo Sync (WASS) support, using 2 reference boards as left and right channels for stereo audio. It includes support for Audio Sink, Handsfree, and AVRC profiles. It also includes support for AAC Codec. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-headset-wass-aac">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk hs_wass_aac</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,audio,headset,sink,handsfree,A2DP,HF,AVRC,AAC,WASS,AMA">
+    <name>Wireless Audio Stereo Sync WASS Headset with AMA</name>
+    <id>mtb-example-btsdk-audio-headset-wass-ama</id>
+    <category>Bluetooth&#174;</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-headset-wass-ama</uri>
+    <description><![CDATA[
+<html>
+<body> This is a Headset reference application demonstrating Wirelss Audio Stereo Sync (WASS) support with Amazon Mobile Accessory (AMA) support, using 2 reference boards as left and right channels for stereo audio. It includes support for Audio Sink, Handsfree, and AVRC profiles. It also includes support for AAC Codec. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-headset-wass-ama">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk hs_wass_ama</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,audio,watch,source,gateway,AVRC,AMS,ANCS,AMA,A2DP">
+    <name>Audio Watch with AMA</name>
+    <id>mtb-example-btsdk-audio-watch-ama</id>
+    <category>Bluetooth&#174;</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-watch-ama</uri>
+    <description><![CDATA[
+<html>
+<body> This is a Smart Watch reference application demonstrating Amazon Mobile Accessory (AMA) support. It includes support for Audio Source, AVRC, Audio Gateway, and Handsfree profiles. It also supports Apple AMS and ANCS. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-watch-ama">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk watch_ama</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="btsdk,audio,watch,source,gateway,AVRC,AMS,ANCS,A2DP">
+    <name>Audio Watch with Dual A2DP</name>
+    <id>mtb-example-btsdk-audio-watch-dual-a2dp</id>
+    <category>Bluetooth&#174;</category>
+    <uri>https://github.com/Infineon/mtb-example-btsdk-audio-watch-dual-a2dp</uri>
+    <description><![CDATA[
+<html>
+<body> This is a Smart Watch reference application demonstrating Dual A2DP support. It includes support for Audio Source, AVRC, Audio Gateway, and Handsfree profiles. It also supports Apple AMS and ANCS. For more information, see the README in this <a href="https://github.com/Infineon/mtb-example-btsdk-audio-watch-dual-a2dp">link</a>.</body>
+</html>
+    ]]></description>
+    <req_capabilities>btsdk watch_dual_a2dp</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
