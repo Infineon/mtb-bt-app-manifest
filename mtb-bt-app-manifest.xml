@@ -2,7 +2,7 @@
   <app>
     <name>BLE-20719B2EVB01</name>
     <id>ble_CYW920719B2Q40EVB_01</id>
-    <uri>https://github.com/Infineon/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ble</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-examples-CYW920719B2Q40EVB-01-btsdk-ble</uri>
     <versions>
       <version flow_version="1.0" tools_max_version="2.1.0">
         <num>2.7.1 release</num>
