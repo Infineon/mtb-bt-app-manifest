@@ -5560,6 +5560,10 @@
     <req_capabilities>btsdk ifxvr</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen2">
+        <num>4.9.5 release</num>
+        <commit>release-v4.9.5</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen2">
         <num>4.6.1 release</num>
         <commit>release-v4.6.1</commit>
       </version>
